@@ -1,0 +1,1026 @@
+Mozilla/5.0 (Linux; Android 10; Tablet) Trident/7.0 Chrome/19.0.1909.127 Safari/537.36 YaBrowser/19.0.1909.127
+Mozilla/5.0 (Linux; Android 10; Desktop) Presto Chrome/90.0.1232.99 Safari/537.36 Edg/90.0.1232.99
+Mozilla/5.0 (compatible; MSIE 10.0; Macintosh; Intel Mac OS X 11_0)
+Mozilla/5.0 (Linux; Ubuntu 20.04; Desktop) Gecko/20100101 Chrome/94.0.4180.217 Safari/537.36 Brave/94.0.4180.217
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.0; Win64; x64)
+Mozilla/5.0 (X11; Linux x86_64; Mobile) Gecko/20100101 Chrome/90.0.1946.85 Safari/537.36 Edg/90.0.1946.85
+Mozilla/5.0 (Windows NT 5.1; Desktop) Presto Chrome/4.0.2373.67 Safari/537.36 Vivaldi/4.0.2373.67
+Mozilla/5.0 (Linux; Ubuntu 20.04; Smart TV) Gecko/20100101 Chrome/20.0.1631.147 Safari/537.36 YaBrowser/20.0.1631.147
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.3798.290 Safari/537.36
+Brave/98.0.3798.290
+Mozilla/5.0 (Windows NT 6.1; WOW64; Tablet) Presto Chrome/81.0.1956.8 Safari/537.36 Edg/81.0.1956.8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Mobile; rv:4.4.8) AppleWebKit/537.36 (KHTML, like Gecko) SeaMonkey/4.4.8
+Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.3; Win64; x64)
+Mozilla/5.0 (X11; Linux x86_64; Smart TV) Presto Chrome/77.0.4657.294 Safari/537.36 OPR/77.0.4657.294
+Mozilla/5.0 (compatible; MSIE 8.0; Linux; Ubuntu 18.04)
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Smart TV) Presto Chrome/21.0.1833.111 Safari/537.36 YaBrowser/21.0.1833.111
+Mozilla/5.0 (Windows NT 5.1; Mobile) Trident/7.0 Chrome/99.0.1058.41 Safari/537.36 Edg/99.0.1058.41
+Mozilla/5.0 (Windows NT 5.1; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/4.9.2521.31 Safari/537.36 Vivaldi/4.9.2521.31
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Smart TV) WebKit Chrome/5.1.2860.40 Safari/537.36 Vivaldi/5.1.2860.40
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Tablet) Trident/7.0 Version/11.1.4 Safari/605.1.15
+Mozilla/5.0 (Windows NT 5.1; Tablet; rv:28.0) Trident/7.0 PaleMoon/28.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Smart TV; rv:2.10.10) Gecko/20100101 SeaMonkey/2.10.10
+Mozilla/5.0 (Linux; Ubuntu 20.04; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/5.10.2315.41 Safari/537.36 Vivaldi/5.10.2315.41
+Mozilla/5.0 (Windows Phone 10.0; Tablet; rv:64.0) Gecko/20100101 Waterfox/64.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Desktop) Trident/7.0 Chrome/50.0.4173.124 Safari/537.36 OPR/50.0.4173.124
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Smart TV) WebKit Chrome/5.9.2172.22 Safari/537.36 Vivaldi/5.9.2172.22
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Mobile) Trident/7.0 Maxthon/4.0.5
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Smart TV) Trident/7.0 Chrome/52.0.3781.264 Safari/537.36 OPR/52.0.3781.264
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Desktop; rv:57.0) Presto Waterfox/57.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Tablet; rv:72.0) Gecko/20100101 Firefox/72.0
+Mozilla/5.0 (compatible; MSIE 9.0; X11; Linux x86_64)
+Mozilla/5.0 (Linux; Ubuntu 18.04; Tablet) Gecko/20100101 Chrome/5.4.2719.18 Safari/537.36 Vivaldi/5.4.2719.18
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Mobile; rv:4.48.3) WebKit SeaMonkey/4.48.3
+Mozilla/5.0 (Linux; Ubuntu 18.04; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Version/12.0.0 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 12; Smart TV) Presto Chrome/3.6.2273.23 Safari/537.36 Vivaldi/3.6.2273.23
+Mozilla/5.0 (Windows NT 5.1; Mobile; rv:2.45.1) AppleWebKit/537.36 (KHTML, like Gecko) SeaMonkey/2.45.1
+Mozilla/5.0 (Linux; Android 11; Mobile) Gecko/20100101 Maxthon/6.0.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Desktop) Presto Chrome/66.0.3235.263 Safari/537.36 OPR/66.0.3235.263
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Mobile) Trident/7.0 Chrome/92.0.4591.299 Safari/537.36 Brave/92.0.4591.299
+Mozilla/5.0 (Linux; Android 11; Desktop) Gecko/20100101 Chrome/85.0.3812.242 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Smart TV; rv:62.0) Trident/7.0 Waterfox/62.0
+Mozilla/5.0 (Linux; Android 10; Desktop; rv:64.0) AppleWebKit/537.36 (KHTML, like Gecko) Waterfox/64.0
+Mozilla/5.0 (Linux; Android 11; Mobile) WebKit Version/10.0.1 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Desktop) Trident/7.0 Chrome/53.0.3459.196 Safari/537.36 OPR/53.0.3459.196
+Mozilla/5.0 (Windows NT 5.1; Smart TV; rv:30.0) AppleWebKit/537.36 (KHTML, like Gecko) PaleMoon/30.0
+Mozilla/5.0 (compatible; MSIE 9.0; Macintosh; Intel Mac OS X 10_15_7)
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Desktop) Presto Chrome/3.8.2631.87 Safari/537.36 Vivaldi/3.8.2631.87
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Tablet; rv:4.26.6) Gecko/20100101 SeaMonkey/4.26.6
+Mozilla/5.0 (Windows NT 6.1; WOW64; Smart TV) Gecko/20100101 Chrome/73.0.3587.188 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Desktop; rv:30.0) Gecko/20100101 PaleMoon/30.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; Tablet) Presto Maxthon/4.0.7
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3024.204 Safari/537.36 OPR/67.0.3024.204
+Mozilla/5.0 (Linux; Android 10; Desktop) Presto Chrome/93.0.4487.145 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Smart TV) Presto Chrome/20.0.1767.105 Safari/537.36 YaBrowser/20.0.1767.105
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Tablet) WebKit Chrome/5.6.2220.28 Safari/537.36 Vivaldi/5.6.2220.28
+Mozilla/5.0 (Linux; Android 11; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/4.9.2345.48 Safari/537.36 Vivaldi/4.9.2345.48
+Mozilla/5.0 (Linux; Android 10; Tablet; rv:104.0) Gecko/20100101 Firefox/104.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; Smart TV) Presto Chrome/19.0.1580.195 Safari/537.36 YaBrowser/19.0.1580.195
+Mozilla/5.0 (Linux; Android 10; Tablet) Trident/7.0 Chrome/105.0.4989.204 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Mobile) Presto Chrome/5.7.2301.45 Safari/537.36 Vivaldi/5.7.2301.45
+Mozilla/5.0 (Linux; Ubuntu 18.04; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.0.6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.1380.36 Safari/537.36
+Edg/82.0.1380.36
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.1322.18 Safari/537.36 Edg/99.0.1322.18
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4299.123 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 18.04; Mobile) Trident/7.0 Chrome/96.0.1305.74 Safari/537.36 Edg/96.0.1305.74
+Mozilla/5.0 (Linux; Ubuntu 20.04; Smart TV) WebKit Chrome/96.0.1131.69 Safari/537.36 Edg/96.0.1131.69
+Mozilla/5.0 (Linux; U; Android 9; Desktop) WebKit Chrome/76.0.4839.138 Safari/537.36 OPR/76.0.4839.138
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Tablet) Trident/7.0 Chrome/3.0.2451.81 Safari/537.36 Vivaldi/3.0.2451.81
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Desktop; rv:32.0) WebKit PaleMoon/32.0
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Desktop; rv:2.23.7) Gecko/20100101 SeaMonkey/2.23.7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Smart TV) Trident/7.0 Chrome/68.0.4487.114 Safari/537.36 OPR/68.0.4487.114
+Mozilla/5.0 (Windows NT 6.1; WOW64; Tablet) Trident/7.0 Chrome/4.5.2818.35 Safari/537.36 Vivaldi/4.5.2818.35
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Mobile) Presto Maxthon/5.0.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.1305.38 Safari/537.36
+Edg/94.0.1305.38
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Smart TV) Gecko/20100101 Maxthon/6.0.10
+Mozilla/5.0 (compatible; MSIE 9.0; Linux; Android 12)
+Mozilla/5.0 (Linux; Ubuntu 18.04; Tablet; rv:30.0) Gecko/20100101 PaleMoon/30.0
+Mozilla/5.0 (compatible; MSIE 10.0; Linux; U; Android 9)
+Mozilla/5.0 (Linux; Android 12; Desktop) Trident/7.0 Chrome/89.0.4995.166 Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Tablet) Presto Maxthon/5.0.5
+Mozilla/5.0 (compatible; MSIE 11.0; Linux; Android 12)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Tablet) Presto Maxthon/6.0.7
+Mozilla/5.0 (Linux; Ubuntu 18.04; Tablet) Trident/7.0 Chrome/102.0.4709.165 Safari/537.36 Brave/102.0.4709.165
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Mobile; rv:61.0) AppleWebKit/537.36 (KHTML, like Gecko) Waterfox/61.0
+Mozilla/5.0 (Linux; Ubuntu 20.04; Smart TV) Trident/7.0 Version/14.0.5 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 12; Tablet; rv:4.35.5) WebKit SeaMonkey/4.35.5
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Tablet; rv:66.0) Gecko/20100101 Waterfox/66.0
+Mozilla/5.0 (Linux; Android 10; Desktop) WebKit Chrome/21.0.1601.114 Safari/537.36 YaBrowser/21.0.1601.114
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.3699.117 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Tablet; rv:56.0) Presto Waterfox/56.0
+Mozilla/5.0 (Linux; Android 12; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Version/13.2.0 Safari/605.1.15
+Mozilla/5.0 (X11; Linux x86_64; Mobile) Presto Chrome/21.0.1583.171 Safari/537.36 YaBrowser/21.0.1583.171
+Mozilla/5.0 (X11; Linux x86_64; Tablet) WebKit Chrome/5.0.2157.20 Safari/537.36 Vivaldi/5.0.2157.20
+Mozilla/5.0 (X11; Linux x86_64; Mobile; rv:29.0) AppleWebKit/537.36 (KHTML, like Gecko) PaleMoon/29.0
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.0; Win64; x64)
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Smart TV) Trident/7.0 Chrome/66.0.4694.172 Safari/537.36 OPR/66.0.4694.172
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Tablet) Trident/7.0 Chrome/83.0.1490.55 Safari/537.36 Edg/83.0.1490.55
+Mozilla/5.0 (Linux; Android 12; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/5.0.4
+Mozilla/5.0 (Linux; Android 11; Smart TV; rv:2.8.9) WebKit SeaMonkey/2.8.9
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15
+Mozilla/5.0 (Windows NT 6.1; WOW64; Desktop; rv:3.49.5) WebKit SeaMonkey/3.49.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Desktop; rv:67.0) WebKit Waterfox/67.0
+Mozilla/5.0 (Linux; Android 10; Tablet) WebKit Chrome/19.0.1935.171 Safari/537.36 YaBrowser/19.0.1935.171
+Mozilla/5.0 (Linux; U; Android 9; Desktop) WebKit Chrome/5.4.2196.51 Safari/537.36 Vivaldi/5.4.2196.51
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Smart TV; rv:31.0) Presto PaleMoon/31.0
+Mozilla/5.0 (Windows NT 5.1; Tablet) WebKit Chrome/98.0.3721.204 Safari/537.36 Brave/98.0.3721.204
+Mozilla/5.0 (Windows NT 6.1; WOW64; Tablet) Gecko/20100101 Maxthon/4.0.6
+Mozilla/5.0 (Windows NT 6.1; WOW64; Smart TV; rv:4.17.4) Gecko/20100101 SeaMonkey/4.17.4
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/4.1.2770.23 Safari/537.36
+Vivaldi/4.1.2770.23
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Smart TV) Presto Chrome/77.0.4511.154 Safari/537.36 OPR/77.0.4511.154
+Mozilla/5.0 (Linux; Android 11; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.1601.25 Safari/537.36 Edg/95.0.1601.25
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Desktop) Gecko/20100101 Chrome/3.1.2907.38 Safari/537.36 Vivaldi/3.1.2907.38
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Desktop) Gecko/20100101 Maxthon/4.0.8
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Mobile) Trident/7.0 Chrome/82.0.1929.40 Safari/537.36 Edg/82.0.1929.40
+Mozilla/5.0 (Windows NT 5.1; Desktop; rv:28.0) AppleWebKit/537.36 (KHTML, like Gecko) PaleMoon/28.0
+Mozilla/5.0 (Windows NT 5.1; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/20.0.1863.189 Safari/537.36 YaBrowser/20.0.1863.189
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Smart TV) Gecko/20100101 Maxthon/6.0.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Tablet) Presto Version/14.1.1 Safari/605.1.15
+Mozilla/5.0 (compatible; MSIE 10.0; Macintosh; Intel Mac OS X 10_14_6)
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Mobile) Gecko/20100101 Chrome/21.0.1759.174 Safari/537.36 YaBrowser/21.0.1759.174
+Mozilla/5.0 (Linux; U; Android 9; Tablet; rv:3.48.8) AppleWebKit/537.36 (KHTML, like Gecko) SeaMonkey/3.48.8
+Mozilla/5.0 (Linux; Ubuntu 18.04; Desktop) WebKit Chrome/20.0.1546.193 Safari/537.36 YaBrowser/20.0.1546.193
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Smart TV; rv:105.0) Gecko/20100101 Firefox/105.0
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.3; Win64; x64)
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Mobile; rv:30.0) WebKit PaleMoon/30.0
+Mozilla/5.0 (Linux; Android 11; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/18.0.1817.174 Safari/537.36 YaBrowser/18.0.1817.174
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.4358.190 Safari/537.36
+OPR/56.0.4358.190
+Mozilla/5.0 (Linux; Android 12; Desktop) Trident/7.0 Chrome/95.0.3645.258 Safari/537.36 Brave/95.0.3645.258
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Smart TV; rv:2.1.3) AppleWebKit/537.36 (KHTML, like Gecko) SeaMonkey/2.1.3
+Mozilla/5.0 (Windows Phone 10.0; Tablet; rv:67.0) Trident/7.0 Waterfox/67.0
+Mozilla/5.0 (Linux; Ubuntu 20.04; Desktop) Presto Chrome/70.0.4763.122 Safari/537.36 OPR/70.0.4763.122
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Smart TV) Presto Chrome/87.0.4297.121 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 20.04; Tablet) Trident/7.0 Chrome/104.0.3889.293 Safari/537.36 Brave/104.0.3889.293
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Desktop) Trident/7.0 Chrome/3.1.2206.46 Safari/537.36 Vivaldi/3.1.2206.46
+Mozilla/5.0 (Linux; Android 11; Mobile) WebKit Chrome/96.0.3575.276 Safari/537.36 Brave/96.0.3575.276
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Version/10.1.3 Safari/605.1.15
+Mozilla/5.0 (Windows NT 5.1; Mobile; rv:30.0) Gecko/20100101 PaleMoon/30.0
+Mozilla/5.0 (Windows NT 5.1; Tablet; rv:59.0) Trident/7.0 Waterfox/59.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Tablet) Presto Chrome/75.0.4306.101 Safari/537.36 OPR/75.0.4306.101
+Mozilla/5.0 (Linux; Android 12; Mobile; rv:67.0) Gecko/20100101 Waterfox/67.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Tablet) Trident/7.0 Chrome/99.0.1459.13 Safari/537.36 Edg/99.0.1459.13
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Mobile) Gecko/20100101 Version/11.2.1 Safari/605.1.15
+Mozilla/5.0 (X11; Linux x86_64; Mobile) Trident/7.0 Chrome/20.0.1959.141 Safari/537.36 YaBrowser/20.0.1959.141
+Mozilla/5.0 (Linux; Android 12; Tablet; rv:95.0) Presto Firefox/95.0
+Mozilla/5.0 (compatible; MSIE 9.0; Linux; Android 10)
+Mozilla/5.0 (Linux; Ubuntu 20.04; Smart TV; rv:59.0) Trident/7.0 Waterfox/59.0
+Mozilla/5.0 (Windows NT 5.1; Tablet) Gecko/20100101 Chrome/56.0.4889.115 Safari/537.36 OPR/56.0.4889.115
+Mozilla/5.0 (Linux; Android 10; Mobile; rv:75.0) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/75.0
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Mobile) Gecko/20100101 Chrome/4.0.2810.11 Safari/537.36 Vivaldi/4.0.2810.11
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Desktop) WebKit Chrome/72.0.4700.255 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Smart TV) WebKit Chrome/3.1.2353.49 Safari/537.36 Vivaldi/3.1.2353.49
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Tablet; rv:106.0) Presto Firefox/106.0
+Mozilla/5.0 (Linux; Ubuntu 20.04; Desktop) WebKit Chrome/104.0.4355.249 Safari/537.36 Brave/104.0.4355.249
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Desktop; rv:2.39.6) Trident/7.0 SeaMonkey/2.39.6
+Mozilla/5.0 (compatible; MSIE 10.0; Macintosh; Intel Mac OS X 12_0)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Smart TV; rv:83.0) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/83.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Tablet; rv:29.0) AppleWebKit/537.36 (KHTML, like Gecko) PaleMoon/29.0
+Mozilla/5.0 (Linux; Ubuntu 18.04; Desktop; rv:98.0) Trident/7.0 Firefox/98.0
+Mozilla/5.0 (Windows Phone 10.0; Tablet) Trident/7.0 Chrome/4.0.2244.81 Safari/537.36 Vivaldi/4.0.2244.81
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Smart TV) Gecko/20100101 Chrome/95.0.4017.102 Safari/537.36 Brave/95.0.4017.102
+Mozilla/5.0 (Linux; Ubuntu 18.04; Desktop; rv:96.0) Gecko/20100101 Firefox/96.0
+Mozilla/5.0 (X11; Linux x86_64; Desktop; rv:92.0) Trident/7.0 Firefox/92.0
+Mozilla/5.0 (compatible; MSIE 11.0; Macintosh; Intel Mac OS X 10_15_7)
+Mozilla/5.0 (compatible; MSIE 8.0; iPhone; CPU iPhone OS 14_0 like Mac OS X)
+Mozilla/5.0 (Windows NT 5.1; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Version/11.2.2 Safari/605.1.15
+Mozilla/5.0 (Linux; Ubuntu 18.04; Mobile; rv:65.0) Gecko/20100101 Waterfox/65.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; Mobile) Gecko/20100101 Chrome/4.1.2556.44 Safari/537.36 Vivaldi/4.1.2556.44
+Mozilla/5.0 (Linux; Ubuntu 18.04; Smart TV; rv:3.24.4) Gecko/20100101 SeaMonkey/3.24.4
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Mobile; rv:75.0) WebKit Firefox/75.0
+Mozilla/5.0 (Linux; Android 12; Mobile) Presto Chrome/105.0.3601.142 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64; Desktop) Gecko/20100101 Maxthon/5.0.1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Smart TV; rv:3.20.8) WebKit SeaMonkey/3.20.8
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Tablet; rv:32.0) WebKit PaleMoon/32.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Tablet; rv:56.0) WebKit Waterfox/56.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Desktop; rv:3.18.1) WebKit SeaMonkey/3.18.1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Mobile) Trident/7.0 Maxthon/4.0.6
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Tablet; rv:4.28.7) WebKit SeaMonkey/4.28.7
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.4538.160 Safari/537.36
+Mozilla/5.0 (compatible; MSIE 10.0; Macintosh; Intel Mac OS X 11_0)
+Mozilla/5.0 (X11; Linux x86_64; Tablet) Trident/7.0 Chrome/20.0.1618.191 Safari/537.36 YaBrowser/20.0.1618.191
+Mozilla/5.0 (Windows NT 6.1; WOW64; Smart TV) Presto Version/12.1.5 Safari/605.1.15
+Mozilla/5.0 (Windows NT 6.1; WOW64; Mobile) Presto Maxthon/4.0.4
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Tablet) Gecko/20100101 Chrome/3.0.2541.66 Safari/537.36 Vivaldi/3.0.2541.66
+Mozilla/5.0 (Windows NT 5.1; Mobile) WebKit Version/10.1.1 Safari/605.1.15
+Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 10.0)
+Mozilla/5.0 (Linux; Android 10; Smart TV) Trident/7.0 Maxthon/5.0.0
+Mozilla/5.0 (Linux; Android 10; Tablet; rv:2.13.7) AppleWebKit/537.36 (KHTML, like Gecko) SeaMonkey/2.13.7
+Mozilla/5.0 (X11; Linux x86_64; Smart TV; rv:28.0) Presto PaleMoon/28.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Smart TV) Presto Chrome/5.3.2090.63 Safari/537.36 Vivaldi/5.3.2090.63
+Mozilla/5.0 (Linux; Android 12; Desktop) Gecko/20100101 Chrome/80.0.4968.255 Safari/537.36 OPR/80.0.4968.255
+Mozilla/5.0 (X11; Linux x86_64; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4001.203 Safari/537.36 Brave/95.0.4001.203
+Mozilla/5.0 (Windows Phone 10.0; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/18.0.1784.148 Safari/537.36 YaBrowser/18.0.1784.148
+Mozilla/5.0 (Windows Phone 10.0; Tablet) Trident/7.0 Chrome/97.0.1612.5 Safari/537.36 Edg/97.0.1612.5
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Desktop; rv:60.0) WebKit Waterfox/60.0
+Mozilla/5.0 (Linux; Android 11; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.3613.147 Safari/537.36 Brave/103.0.3613.147
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Desktop) Gecko/20100101 Chrome/20.0.1667.115 Safari/537.36 YaBrowser/20.0.1667.115
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Tablet) WebKit Maxthon/5.0.2
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Mobile; rv:58.0) AppleWebKit/537.36 (KHTML, like Gecko) Waterfox/58.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Smart TV; rv:4.44.7) Gecko/20100101 SeaMonkey/4.44.7
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Smart TV) Presto Chrome/18.0.1841.152 Safari/537.36 YaBrowser/18.0.1841.152
+Mozilla/5.0 (Windows NT 5.1; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.1114.50 Safari/537.36 Edg/96.0.1114.50
+Mozilla/5.0 (Linux; Android 10; Desktop) WebKit Chrome/98.0.1723.71 Safari/537.36 Edg/98.0.1723.71
+Mozilla/5.0 (compatible; MSIE 10.0; iPhone; CPU iPhone OS 15_0 like Mac OS X)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Mobile; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Tablet; rv:29.0) Gecko/20100101 PaleMoon/29.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; Mobile) Presto Chrome/82.0.4293.140 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Mobile) Presto Chrome/4.9.2133.12 Safari/537.36 Vivaldi/4.9.2133.12
+Mozilla/5.0 (Linux; Android 12; Desktop; rv:96.0) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/96.0
+Mozilla/5.0 (Linux; Android 10; Desktop) Trident/7.0 Version/10.0.4 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Desktop; rv:67.0) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/67.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/5.0.9
+Mozilla/5.0 (Windows Phone 10.0; Tablet; rv:2.37.9) WebKit SeaMonkey/2.37.9
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Smart TV) Gecko/20100101 Chrome/84.0.1976.80 Safari/537.36 Edg/84.0.1976.80
+Mozilla/5.0 (Windows Phone 10.0; Smart TV; rv:62.0) Gecko/20100101 Firefox/62.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Mobile; rv:64.0) WebKit Waterfox/64.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Tablet) WebKit Chrome/102.0.3772.200 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Smart TV) Trident/7.0 Chrome/96.0.4343.165 Safari/537.36 Brave/96.0.4343.165
+Mozilla/5.0 (Linux; Android 11; Tablet; rv:2.25.5) AppleWebKit/537.36 (KHTML, like Gecko) SeaMonkey/2.25.5
+Mozilla/5.0 (Windows Phone 10.0; Smart TV) Gecko/20100101 Maxthon/4.0.3
+Mozilla/5.0 (compatible; MSIE 11.0; X11; Ubuntu; Linux i686)
+Mozilla/5.0 (X11; Linux x86_64; Desktop) Gecko/20100101 Chrome/54.0.4436.283 Safari/537.36 OPR/54.0.4436.283
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Desktop) Gecko/20100101 Maxthon/6.0.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.0.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Desktop) WebKit Version/14.1.0 Safari/605.1.15
+Mozilla/5.0 (compatible; MSIE 9.0; Macintosh; Intel Mac OS X 10_14_6)
+Mozilla/5.0 (Linux; Android 12; Tablet; rv:78.0) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/78.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Smart TV) Trident/7.0 Version/13.0.0 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Desktop; rv:4.29.2) Trident/7.0 SeaMonkey/4.29.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Mobile) Trident/7.0 Version/13.2.2 Safari/605.1.15
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Mobile; rv:62.0) Gecko/20100101 Firefox/62.0
+Mozilla/5.0 (Linux; Android 12; Mobile) Trident/7.0 Version/15.0.1 Safari/605.1.15
+Mozilla/5.0 (Linux; U; Android 9; Tablet; rv:29.0) AppleWebKit/537.36 (KHTML, like Gecko) PaleMoon/29.0
+Mozilla/5.0 (compatible; MSIE 8.0; Linux; Android 10)
+Mozilla/5.0 (Linux; Android 11; Tablet) WebKit Maxthon/5.0.9
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Tablet; rv:60.0) Gecko/20100101 Waterfox/60.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Smart TV) Trident/7.0 Version/10.2.2 Safari/605.1.15
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Desktop) Presto Chrome/74.0.4000.104 Safari/537.36 OPR/74.0.4000.104
+Mozilla/5.0 (compatible; MSIE 9.0; Macintosh; Intel Mac OS X 12_0)
+Mozilla/5.0 (Windows NT 5.1; Smart TV) Gecko/20100101 Chrome/97.0.1156.0 Safari/537.36 Edg/97.0.1156.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Smart TV; rv:3.6.0) Presto SeaMonkey/3.6.0
+Mozilla/5.0 (Windows Phone 10.0; Desktop) Trident/7.0 Version/13.2.0 Safari/605.1.15
+Mozilla/5.0 (Linux; U; Android 9; Desktop; rv:4.28.6) AppleWebKit/537.36 (KHTML, like Gecko) SeaMonkey/4.28.6
+Mozilla/5.0 (Linux; Android 10; Desktop) Trident/7.0 Version/12.0.2 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 10; Tablet) WebKit Maxthon/4.0.4
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Tablet) Gecko/20100101 Chrome/91.0.3594.235 Safari/537.36 Brave/91.0.3594.235
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Desktop) Gecko/20100101 Chrome/95.0.3745.218 Safari/537.36 Brave/95.0.3745.218
+Mozilla/5.0 (Linux; Ubuntu 18.04; Smart TV) Presto Chrome/73.0.4630.189 Safari/537.36 OPR/73.0.4630.189
+Mozilla/5.0 (X11; Linux x86_64; Smart TV) Trident/7.0 Chrome/97.0.3974.111 Safari/537.36 Brave/97.0.3974.111
+Mozilla/5.0 (Linux; Ubuntu 20.04; Desktop; rv:32.0) Gecko/20100101 PaleMoon/32.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/5.0.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Desktop) Gecko/20100101 Chrome/86.0.4333.235 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Mobile; rv:28.0) Trident/7.0 PaleMoon/28.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; Tablet) Presto Maxthon/5.0.10
+Mozilla/5.0 (Windows NT 5.1; Tablet; rv:2.9.3) Gecko/20100101 SeaMonkey/2.9.3
+Mozilla/5.0 (X11; Linux x86_64; Smart TV) Gecko/20100101 Version/15.2.5 Safari/605.1.15
+Mozilla/5.0 (Linux; U; Android 9; Mobile; rv:57.0) Gecko/20100101 Waterfox/57.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Mobile; rv:56.0) Presto Waterfox/56.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Desktop) WebKit Chrome/94.0.4927.259 Safari/537.36 Brave/94.0.4927.259
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Tablet; rv:62.0) AppleWebKit/537.36 (KHTML, like Gecko) Waterfox/62.0
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Smart TV) Trident/7.0 Chrome/59.0.3178.152 Safari/537.36 OPR/59.0.3178.152
+Mozilla/5.0 (Linux; U; Android 9; Smart TV; rv:30.0) Trident/7.0 PaleMoon/30.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Tablet) Presto Chrome/3.7.2105.66 Safari/537.36 Vivaldi/3.7.2105.66
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Desktop) Presto Chrome/85.0.1557.19 Safari/537.36 Edg/85.0.1557.19
+Mozilla/5.0 (Windows Phone 10.0; Desktop; rv:3.29.10) Gecko/20100101 SeaMonkey/3.29.10
+Mozilla/5.0 (Windows NT 5.1; Mobile) Trident/7.0 Chrome/95.0.1658.92 Safari/537.36 Edg/95.0.1658.92
+Mozilla/5.0 (Windows Phone 10.0; Tablet) Trident/7.0 Chrome/21.0.1528.198 Safari/537.36 YaBrowser/21.0.1528.198
+Mozilla/5.0 (Linux; Android 11; Smart TV) WebKit Version/14.1.2 Safari/605.1.15
+Mozilla/5.0 (Windows NT 5.1; Desktop; rv:60.0) Gecko/20100101 Firefox/60.0
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/5.7.2353.25 Safari/537.36 Vivaldi/5.7.2353.25
+Mozilla/5.0 (compatible; MSIE 10.0; X11; Linux x86_64)
+Mozilla/5.0 (Linux; U; Android 9; Desktop) WebKit Maxthon/4.0.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Desktop) Presto Chrome/74.0.4435.137 Safari/537.36
+Mozilla/5.0 (compatible; MSIE 8.0; Macintosh; Intel Mac OS X 10_14_6)
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Mobile; rv:31.0) Trident/7.0 PaleMoon/31.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Desktop; rv:73.0) WebKit Firefox/73.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Smart TV) Trident/7.0 Chrome/70.0.3523.177 Safari/537.36 OPR/70.0.3523.177
+Mozilla/5.0 (Linux; Ubuntu 20.04; Mobile) Trident/7.0 Chrome/20.0.1604.170 Safari/537.36 YaBrowser/20.0.1604.170
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Tablet; rv:32.0) WebKit PaleMoon/32.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Tablet; rv:29.0) Trident/7.0 PaleMoon/29.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Version/11.1.4 Safari/605.1.15
+Mozilla/5.0 (compatible; MSIE 10.0; Linux; Ubuntu 20.04)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Mobile; rv:62.0) Presto Waterfox/62.0
+Mozilla/5.0 (Windows NT 5.1; Desktop) Presto Version/10.0.2 Safari/605.1.15
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Desktop; rv:89.0) Gecko/20100101 Firefox/89.0
+Mozilla/5.0 (Windows Phone 10.0; Mobile) Trident/7.0 Chrome/89.0.1591.44 Safari/537.36 Edg/89.0.1591.44
+Mozilla/5.0 (Windows NT 6.1; WOW64; Tablet) WebKit Chrome/91.0.4981.271 Safari/537.36 Brave/91.0.4981.271
+Mozilla/5.0 (compatible; MSIE 10.0; Linux; Android 11)
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Mobile) WebKit Version/12.1.5 Safari/605.1.15
+Mozilla/5.0 (Linux; Ubuntu 18.04; Desktop) Trident/7.0 Chrome/98.0.4688.222 Safari/537.36
+Mozilla/5.0 (Windows NT 5.1; Desktop; rv:4.2.3) Presto SeaMonkey/4.2.3
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Smart TV) Gecko/20100101 Version/14.1.4 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 11; Smart TV) Presto Version/10.1.5 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Tablet; rv:3.25.0) Trident/7.0 SeaMonkey/3.25.0
+Mozilla/5.0 (Linux; Ubuntu 20.04; Smart TV; rv:100.0) Presto Firefox/100.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Version/12.1.4 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Smart TV) Gecko/20100101 Chrome/65.0.3585.142 Safari/537.36 OPR/65.0.3585.142
+Mozilla/5.0 (compatible; MSIE 10.0; Macintosh; Intel Mac OS X 10_15_7)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Tablet) Trident/7.0 Version/13.1.1 Safari/605.1.15
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4473.275 Safari/537.36
+Mozilla/5.0 (Windows NT 5.1; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/19.0.1967.155 Safari/537.36 YaBrowser/19.0.1967.155
+Mozilla/5.0 (Linux; U; Android 9; Tablet; rv:61.0) Presto Waterfox/61.0
+Mozilla/5.0 (Linux; Ubuntu 18.04; Tablet) Gecko/20100101 Chrome/82.0.3692.248 Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Mobile; rv:65.0) Gecko/20100101 Waterfox/65.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Desktop) Trident/7.0 Chrome/84.0.4311.121 Safari/537.36
+Mozilla/5.0 (Windows Phone 10.0; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.4242.169 Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Mobile) Trident/7.0 Chrome/83.0.3634.263 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.1817.90 Safari/537.36
+Edg/93.0.1817.90
+Mozilla/5.0 (compatible; MSIE 9.0; Macintosh; Intel Mac OS X 12_0)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Smart TV; rv:60.0) AppleWebKit/537.36 (KHTML, like Gecko) Waterfox/60.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Mobile; rv:4.29.4) Presto SeaMonkey/4.29.4
+Mozilla/5.0 (Windows NT 5.1; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4324.268 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 18.04; Tablet) WebKit Version/12.0.5 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 12; Desktop; rv:76.0) Trident/7.0 Firefox/76.0
+Mozilla/5.0 (Linux; Android 10; Smart TV; rv:3.9.2) AppleWebKit/537.36 (KHTML, like Gecko) SeaMonkey/3.9.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.1040.83 Safari/537.36
+Edg/96.0.1040.83
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Mobile) WebKit Version/10.1.3 Safari/605.1.15
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.0.5
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.0.4
+Mozilla/5.0 (compatible; MSIE 9.0; Linux; Ubuntu 20.04)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Mobile) Gecko/20100101 Chrome/5.9.2486.41 Safari/537.36 Vivaldi/5.9.2486.41
+Mozilla/5.0 (Linux; Android 10; Desktop; rv:29.0) Gecko/20100101 PaleMoon/29.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Desktop) Presto Chrome/98.0.4917.158 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Version/10.2.5 Safari/605.1.15
+Mozilla/5.0 (Windows NT 6.1; WOW64; Desktop) Trident/7.0 Chrome/72.0.4633.261 Safari/537.36 OPR/72.0.4633.261
+Mozilla/5.0 (Linux; Ubuntu 20.04; Smart TV) WebKit Chrome/101.0.3969.198 Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Smart TV; rv:3.34.5) AppleWebKit/537.36 (KHTML, like Gecko) SeaMonkey/3.34.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Tablet) Trident/7.0 Maxthon/5.0.6
+Mozilla/5.0 (Windows NT 5.1; Desktop; rv:29.0) AppleWebKit/537.36 (KHTML, like Gecko) PaleMoon/29.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Smart TV) Gecko/20100101 Chrome/97.0.4929.115 Safari/537.36 Brave/97.0.4929.115
+Mozilla/5.0 (Linux; Android 10; Desktop; rv:4.43.4) WebKit SeaMonkey/4.43.4
+Mozilla/5.0 (compatible; MSIE 8.0; Macintosh; Intel Mac OS X 10_14_6)
+Mozilla/5.0 (Windows NT 5.1; Mobile; rv:4.29.3) Trident/7.0 SeaMonkey/4.29.3
+Mozilla/5.0 (compatible; MSIE 11.0; Macintosh; Intel Mac OS X 10_15_7)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Mobile) Gecko/20100101 Chrome/103.0.3815.173 Safari/537.36 Brave/103.0.3815.173
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Smart TV; rv:56.0) AppleWebKit/537.36 (KHTML, like Gecko) Waterfox/56.0
+Mozilla/5.0 (Linux; Android 11; Desktop) Presto Chrome/3.3.2208.24 Safari/537.36 Vivaldi/3.3.2208.24
+Mozilla/5.0 (X11; Linux x86_64; Tablet) Trident/7.0 Chrome/98.0.4678.275 Safari/537.36
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Tablet) Gecko/20100101 Version/15.1.0 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Tablet) Presto Version/11.1.3 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 10; Mobile; rv:60.0) Presto Firefox/60.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Desktop; rv:67.0) Trident/7.0 Waterfox/67.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Smart TV) Trident/7.0 Chrome/85.0.1969.98 Safari/537.36 Edg/85.0.1969.98
+Mozilla/5.0 (Linux; Ubuntu 18.04; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/5.0.7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Mobile; rv:30.0) WebKit PaleMoon/30.0
+Mozilla/5.0 (Windows Phone 10.0; Tablet; rv:89.0) Presto Firefox/89.0
+Mozilla/5.0 (X11; Linux x86_64; Mobile) WebKit Chrome/4.10.2478.46 Safari/537.36 Vivaldi/4.10.2478.46
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Smart TV) Gecko/20100101 Version/14.1.1 Safari/605.1.15
+Mozilla/5.0 (Linux; U; Android 9; Desktop; rv:2.7.2) Gecko/20100101 SeaMonkey/2.7.2
+Mozilla/5.0 (Linux; U; Android 9; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3298.289 Safari/537.36 OPR/71.0.3298.289
+Mozilla/5.0 (X11; Linux x86_64; Tablet) WebKit Chrome/93.0.1089.56 Safari/537.36 Edg/93.0.1089.56
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Smart TV; rv:64.0) Gecko/20100101 Waterfox/64.0
+Mozilla/5.0 (X11; Linux x86_64; Mobile) Gecko/20100101 Chrome/5.8.2778.38 Safari/537.36 Vivaldi/5.8.2778.38
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Win64; x64)
+Mozilla/5.0 (X11; Linux x86_64; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.1931.54 Safari/537.36 Edg/81.0.1931.54
+Mozilla/5.0 (Linux; Ubuntu 20.04; Tablet; rv:57.0) Presto Waterfox/57.0
+Mozilla/5.0 (compatible; MSIE 10.0; iPhone; CPU iPhone OS 14_0 like Mac OS X)
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Desktop; rv:3.36.9) AppleWebKit/537.36 (KHTML, like Gecko) SeaMonkey/3.36.9
+Mozilla/5.0 (compatible; MSIE 11.0; Macintosh; Intel Mac OS X 10_15_7)
+Mozilla/5.0 (Linux; Ubuntu 18.04; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Version/14.2.3 Safari/605.1.15
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Mobile; rv:2.33.6) Trident/7.0 SeaMonkey/2.33.6
+Mozilla/5.0 (X11; Linux x86_64; Smart TV; rv:97.0) Presto Firefox/97.0
+Mozilla/5.0 (Linux; Android 11; Tablet) Gecko/20100101 Chrome/3.4.2653.81 Safari/537.36 Vivaldi/3.4.2653.81
+Mozilla/5.0 (X11; Linux x86_64; Tablet) Trident/7.0 Chrome/81.0.1852.49 Safari/537.36 Edg/81.0.1852.49
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Smart TV; rv:99.0) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/99.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Desktop; rv:29.0) Gecko/20100101 PaleMoon/29.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Desktop) Trident/7.0 Chrome/99.0.4329.137 Safari/537.36 Brave/99.0.4329.137
+Mozilla/5.0 (Linux; Android 11; Tablet; rv:71.0) Trident/7.0 Firefox/71.0
+Mozilla/5.0 (compatible; MSIE 10.0; Linux; Android 12)
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Tablet; rv:60.0) Presto Waterfox/60.0
+Mozilla/5.0 (Linux; U; Android 9; Mobile) Trident/7.0 Version/15.1.2 Safari/605.1.15
+Mozilla/5.0 (compatible; MSIE 10.0; Macintosh; Intel Mac OS X 10_15_7)
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Smart TV) WebKit Chrome/99.0.1452.9 Safari/537.36 Edg/99.0.1452.9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Tablet) Presto Chrome/20.0.1914.152 Safari/537.36 YaBrowser/20.0.1914.152
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Tablet) Gecko/20100101 Version/10.1.4 Safari/605.1.15
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4850.244 Safari/537.36 Brave/97.0.4850.244
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Smart TV) Trident/7.0 Chrome/101.0.3698.228 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 18.04; Mobile) Presto Chrome/103.0.3900.206 Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Desktop) Presto Version/13.0.1 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Tablet) Trident/7.0 Chrome/92.0.1339.67 Safari/537.36 Edg/92.0.1339.67
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Desktop) WebKit Chrome/98.0.1736.69 Safari/537.36 Edg/98.0.1736.69
+Mozilla/5.0 (Linux; Ubuntu 20.04; Mobile) Presto Maxthon/6.0.7
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Desktop) Gecko/20100101 Chrome/80.0.1682.83 Safari/537.36 Edg/80.0.1682.83
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Tablet; rv:2.18.8) Gecko/20100101 SeaMonkey/2.18.8
+Mozilla/5.0 (Linux; Android 11; Smart TV) Gecko/20100101 Chrome/101.0.4484.285 Safari/537.36 Brave/101.0.4484.285
+Mozilla/5.0 (Linux; Ubuntu 20.04; Mobile) Gecko/20100101 Maxthon/4.0.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Tablet; rv:65.0) WebKit Waterfox/65.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Desktop; rv:65.0) AppleWebKit/537.36 (KHTML, like Gecko) Waterfox/65.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Desktop; rv:61.0) Trident/7.0 Waterfox/61.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Tablet) Gecko/20100101 Chrome/4.0.2526.55 Safari/537.36 Vivaldi/4.0.2526.55
+Mozilla/5.0 (Windows NT 6.1; WOW64; Mobile) Trident/7.0 Chrome/104.0.4263.289 Safari/537.36 Brave/104.0.4263.289
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Tablet) WebKit Chrome/18.0.1617.178 Safari/537.36 YaBrowser/18.0.1617.178
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Tablet) Presto Chrome/98.0.4237.287 Safari/537.36 Brave/98.0.4237.287
+Mozilla/5.0 (Windows Phone 10.0; Mobile) Gecko/20100101 Chrome/96.0.3593.195 Safari/537.36
+Mozilla/5.0 (compatible; MSIE 8.0; Linux; Ubuntu 20.04)
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Desktop; rv:32.0) Trident/7.0 PaleMoon/32.0
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.3; Win64; x64)
+Mozilla/5.0 (Linux; Android 11; Desktop; rv:66.0) WebKit Waterfox/66.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Version/12.2.0 Safari/605.1.15
+Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.1; WOW64)
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Mobile) WebKit Chrome/92.0.3781.261 Safari/537.36 Brave/92.0.3781.261
+Mozilla/5.0 (Linux; Android 12; Mobile; rv:2.43.3) Trident/7.0 SeaMonkey/2.43.3
+Mozilla/5.0 (compatible; MSIE 9.0; Linux; Ubuntu 18.04)
+Mozilla/5.0 (Linux; U; Android 9; Tablet) WebKit Chrome/92.0.4426.244 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Tablet) Gecko/20100101 Chrome/80.0.4718.121 Safari/537.36 OPR/80.0.4718.121
+Mozilla/5.0 (X11; Linux x86_64; Mobile; rv:30.0) Gecko/20100101 PaleMoon/30.0
+Mozilla/5.0 (Linux; Ubuntu 20.04; Smart TV) Trident/7.0 Chrome/4.9.2825.93 Safari/537.36 Vivaldi/4.9.2825.93
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Smart TV) Trident/7.0 Chrome/99.0.4015.164 Safari/537.36 Brave/99.0.4015.164
+Mozilla/5.0 (Linux; Android 10; Desktop) WebKit Chrome/3.9.2862.74 Safari/537.36 Vivaldi/3.9.2862.74
+Mozilla/5.0 (Linux; Android 10; Mobile) WebKit Maxthon/5.0.2
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.3728.225 Safari/537.36 Brave/102.0.3728.225
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Mobile; rv:2.50.7) AppleWebKit/537.36 (KHTML, like Gecko) SeaMonkey/2.50.7
+Mozilla/5.0 (Linux; Ubuntu 20.04; Desktop) WebKit Chrome/21.0.1932.195 Safari/537.36 YaBrowser/21.0.1932.195
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Smart TV; rv:99.0) WebKit Firefox/99.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Smart TV) Presto Version/13.1.2 Safari/605.1.15
+Mozilla/5.0 (Windows NT 5.1; Mobile) Trident/7.0 Chrome/91.0.1088.67 Safari/537.36 Edg/91.0.1088.67
+Mozilla/5.0 (Linux; Android 10; Mobile) Trident/7.0 Chrome/87.0.1940.26 Safari/537.36 Edg/87.0.1940.26
+Mozilla/5.0 (Linux; Ubuntu 20.04; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.3090.111 Safari/537.36 OPR/50.0.3090.111
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Desktop; rv:28.0) AppleWebKit/537.36 (KHTML, like Gecko) PaleMoon/28.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Smart TV) Gecko/20100101 Chrome/102.0.4780.188 Safari/537.36 Brave/102.0.4780.188
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Tablet) Gecko/20100101 Chrome/100.0.4790.201 Safari/537.36 Brave/100.0.4790.201
+Mozilla/5.0 (Windows NT 5.1; Tablet) Presto Maxthon/6.0.8
+Mozilla/5.0 (compatible; MSIE 10.0; Macintosh; Intel Mac OS X 10_14_6)
+Mozilla/5.0 (Linux; Android 12; Desktop) Gecko/20100101 Maxthon/4.0.0
+Mozilla/5.0 (Linux; Ubuntu 18.04; Mobile) Gecko/20100101 Chrome/57.0.4098.229 Safari/537.36 OPR/57.0.4098.229
+Mozilla/5.0 (Linux; Android 10; Tablet) Trident/7.0 Maxthon/4.0.8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Tablet) Trident/7.0 Chrome/5.3.2245.23 Safari/537.36 Vivaldi/5.3.2245.23
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Smart TV; rv:64.0) Trident/7.0 Waterfox/64.0
+Mozilla/5.0 (Linux; Android 12; Mobile) Presto Maxthon/5.0.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Desktop; rv:63.0) Presto Waterfox/63.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.1434.38 Safari/537.36 Edg/92.0.1434.38
+Mozilla/5.0 (compatible; MSIE 8.0; Linux; Android 11)
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Desktop; rv:62.0) Presto Waterfox/62.0
+Mozilla/5.0 (compatible; MSIE 8.0; X11; Ubuntu; Linux i686)
+Mozilla/5.0 (compatible; MSIE 8.0; X11; Linux x86_64)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Desktop) Trident/7.0 Chrome/3.3.2056.21 Safari/537.36 Vivaldi/3.3.2056.21
+Mozilla/5.0 (Windows NT 5.1; Desktop) Trident/7.0 Chrome/99.0.3709.198 Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Mobile) Gecko/20100101 Chrome/83.0.4247.145 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Mobile) Gecko/20100101 Chrome/90.0.4526.129 Safari/537.36 Brave/90.0.4526.129
+Mozilla/5.0 (Windows Phone 10.0; Desktop) Trident/7.0 Version/11.1.2 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 12; Tablet; rv:96.0) Gecko/20100101 Firefox/96.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Desktop) Presto Chrome/94.0.1102.36 Safari/537.36 Edg/94.0.1102.36
+Mozilla/5.0 (Linux; Android 12; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4204.220 Safari/537.36 Brave/104.0.4204.220
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/19.0.1773.166 Safari/537.36
+YaBrowser/19.0.1773.166
+Mozilla/5.0 (Windows Phone 10.0; Mobile) Trident/7.0 Version/10.1.4 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 10; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Mobile) Gecko/20100101 Chrome/65.0.3803.186 Safari/537.36 OPR/65.0.3803.186
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Smart TV) Trident/7.0 Chrome/3.10.2177.97 Safari/537.36 Vivaldi/3.10.2177.97
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Smart TV; rv:63.0) WebKit Waterfox/63.0
+Mozilla/5.0 (compatible; MSIE 8.0; Windows Phone 10.0)
+Mozilla/5.0 (Linux; Ubuntu 18.04; Mobile; rv:4.5.0) Presto SeaMonkey/4.5.0
+Mozilla/5.0 (compatible; MSIE 10.0; Macintosh; Intel Mac OS X 11_0)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Desktop) Trident/7.0 Chrome/85.0.1642.31 Safari/537.36 Edg/85.0.1642.31
+Mozilla/5.0 (Windows NT 6.1; WOW64; Mobile; rv:65.0) Gecko/20100101 Waterfox/65.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Tablet; rv:61.0) Presto Waterfox/61.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Desktop) Presto Version/15.1.5 Safari/605.1.15
+Mozilla/5.0 (compatible; MSIE 8.0; Windows Phone 10.0)
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Version/15.0.2 Safari/605.1.15
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Mobile; rv:29.0) Trident/7.0 PaleMoon/29.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Smart TV) Presto Chrome/3.3.2001.45 Safari/537.36 Vivaldi/3.3.2001.45
+Mozilla/5.0 (Linux; Ubuntu 20.04; Desktop; rv:4.2.7) Trident/7.0 SeaMonkey/4.2.7
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Mobile; rv:58.0) Presto Waterfox/58.0
+Mozilla/5.0 (Linux; Ubuntu 18.04; Desktop) Trident/7.0 Chrome/21.0.1651.102 Safari/537.36 YaBrowser/21.0.1651.102
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Tablet) Gecko/20100101 Chrome/65.0.4342.162 Safari/537.36 OPR/65.0.4342.162
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Tablet) Presto Chrome/21.0.1632.173 Safari/537.36 YaBrowser/21.0.1632.173
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.0.8
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Smart TV; rv:59.0) Presto Waterfox/59.0
+Mozilla/5.0 (Linux; Ubuntu 20.04; Smart TV; rv:98.0) Presto Firefox/98.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Mobile; rv:65.0) AppleWebKit/537.36 (KHTML, like Gecko) Waterfox/65.0
+Mozilla/5.0 (Windows NT 5.1; Mobile; rv:2.26.1) WebKit SeaMonkey/2.26.1
+Mozilla/5.0 (compatible; MSIE 8.0; iPhone; CPU iPhone OS 15_0 like Mac OS X)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Smart TV) WebKit Chrome/92.0.4985.220 Safari/537.36 Brave/92.0.4985.220
+Mozilla/5.0 (Windows NT 5.1; Mobile) Trident/7.0 Chrome/82.0.1185.41 Safari/537.36 Edg/82.0.1185.41
+Mozilla/5.0 (Linux; Android 10; Smart TV) Gecko/20100101 Chrome/87.0.1123.51 Safari/537.36 Edg/87.0.1123.51
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Smart TV) Trident/7.0 Chrome/90.0.1919.54 Safari/537.36 Edg/90.0.1919.54
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Desktop; rv:2.35.10) WebKit SeaMonkey/2.35.10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Mobile; rv:90.0) Presto Firefox/90.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Tablet; rv:29.0) Trident/7.0 PaleMoon/29.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Desktop; rv:94.0) WebKit Firefox/94.0
+Mozilla/5.0 (Windows Phone 10.0; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/19.0.1818.195 Safari/537.36 YaBrowser/19.0.1818.195
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Smart TV) Presto Chrome/90.0.4540.117 Safari/537.36 Brave/90.0.4540.117
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Smart TV) Presto Chrome/3.0.2387.30 Safari/537.36 Vivaldi/3.0.2387.30
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Tablet) Trident/7.0 Chrome/73.0.4653.251 Safari/537.36 OPR/73.0.4653.251
+Mozilla/5.0 (X11; Linux x86_64; Desktop; rv:98.0) Presto Firefox/98.0
+Mozilla/5.0 (compatible; MSIE 10.0; Linux; Android 12)
+Mozilla/5.0 (Linux; Android 12; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3215.125 Safari/537.36 OPR/60.0.3215.125
+Mozilla/5.0 (Linux; Android 12; Tablet; rv:30.0) Presto PaleMoon/30.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Smart TV; rv:62.0) WebKit Firefox/62.0
+Mozilla/5.0 (Linux; Android 10; Mobile) Trident/7.0 Chrome/100.0.4046.224 Safari/537.36 Brave/100.0.4046.224
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Tablet; rv:31.0) Presto PaleMoon/31.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Tablet) Presto Maxthon/4.0.9
+Mozilla/5.0 (X11; Linux x86_64; Tablet) WebKit Chrome/58.0.4726.216 Safari/537.36 OPR/58.0.4726.216
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Tablet; rv:63.0) WebKit Waterfox/63.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Mobile; rv:85.0) Trident/7.0 Firefox/85.0
+Mozilla/5.0 (X11; Linux x86_64; Tablet; rv:83.0) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/83.0
+Mozilla/5.0 (Linux; Android 12; Tablet; rv:56.0) WebKit Waterfox/56.0
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.0.1
+Mozilla/5.0 (X11; Linux x86_64; Mobile) Gecko/20100101 Chrome/83.0.4992.204 Safari/537.36
+Mozilla/5.0 (compatible; MSIE 10.0; iPhone; CPU iPhone OS 15_0 like Mac OS X)
+Mozilla/5.0 (Windows NT 5.1; Smart TV) Presto Chrome/69.0.4748.245 Safari/537.36 OPR/69.0.4748.245
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Tablet) Gecko/20100101 Chrome/84.0.4814.179 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 18.04; Mobile) WebKit Chrome/86.0.4174.268 Safari/537.36
+Mozilla/5.0 (Linux; U; Android 9; Smart TV) Gecko/20100101 Version/11.0.1 Safari/605.1.15
+Mozilla/5.0 (Linux; U; Android 9; Tablet) Trident/7.0 Chrome/3.6.2240.13 Safari/537.36 Vivaldi/3.6.2240.13
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Desktop) Gecko/20100101 Version/10.2.4 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 12; Mobile) Presto Chrome/4.8.2833.48 Safari/537.36 Vivaldi/4.8.2833.48
+Mozilla/5.0 (compatible; MSIE 10.0; iPhone; CPU iPhone OS 15_0 like Mac OS X)
+Mozilla/5.0 (Linux; Android 11; Tablet; rv:58.0) Trident/7.0 Waterfox/58.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Smart TV; rv:30.0) Presto PaleMoon/30.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Mobile) Gecko/20100101 Chrome/19.0.1938.193 Safari/537.36 YaBrowser/19.0.1938.193
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Smart TV; rv:31.0) Presto PaleMoon/31.0
+Mozilla/5.0 (Linux; Android 11; Mobile) Gecko/20100101 Chrome/5.9.2200.45 Safari/537.36 Vivaldi/5.9.2200.45
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Smart TV) Trident/7.0 Version/14.1.0 Safari/605.1.15
+Mozilla/5.0 (Windows NT 5.1; Desktop) Gecko/20100101 Chrome/69.0.4566.228 Safari/537.36 OPR/69.0.4566.228
+Mozilla/5.0 (Linux; Android 11; Smart TV) Gecko/20100101 Version/10.2.2 Safari/605.1.15
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Tablet) Gecko/20100101 Maxthon/4.0.8
+Mozilla/5.0 (Linux; Android 12; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.1497.58 Safari/537.36 Edg/83.0.1497.58
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/5.7.2205.16 Safari/537.36 Vivaldi/5.7.2205.16
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Version/15.2.3 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Mobile) Trident/7.0 Chrome/92.0.4208.192 Safari/537.36 Brave/92.0.4208.192
+Mozilla/5.0 (Windows NT 6.1; WOW64; Tablet) Trident/7.0 Chrome/56.0.4930.238 Safari/537.36 OPR/56.0.4930.238
+Mozilla/5.0 (X11; Linux x86_64; Smart TV) Presto Chrome/84.0.1934.71 Safari/537.36 Edg/84.0.1934.71
+Mozilla/5.0 (Windows NT 6.1; WOW64; Tablet) Presto Maxthon/6.0.6
+Mozilla/5.0 (Linux; Ubuntu 18.04; Desktop) Trident/7.0 Chrome/21.0.1682.199 Safari/537.36 YaBrowser/21.0.1682.199
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Mobile; rv:31.0) Gecko/20100101 PaleMoon/31.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Smart TV; rv:28.0) AppleWebKit/537.36 (KHTML, like Gecko) PaleMoon/28.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Mobile; rv:2.41.10) Gecko/20100101 SeaMonkey/2.41.10
+Mozilla/5.0 (X11; Linux x86_64; Mobile; rv:102.0) WebKit Firefox/102.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Tablet) WebKit Maxthon/5.0.9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Smart TV) Presto Chrome/75.0.4692.147 Safari/537.36 OPR/75.0.4692.147
+Mozilla/5.0 (Linux; U; Android 9; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.1229.12 Safari/537.36 Edg/94.0.1229.12
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3305.112 Safari/537.36 OPR/71.0.3305.112
+Mozilla/5.0 (X11; Linux x86_64; Tablet) WebKit Version/15.2.2 Safari/605.1.15
+Mozilla/5.0 (Windows NT 5.1; Mobile) WebKit Version/13.1.1 Safari/605.1.15
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Desktop) Trident/7.0 Chrome/5.2.2737.90 Safari/537.36 Vivaldi/5.2.2737.90
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Smart TV) Gecko/20100101 Chrome/93.0.4332.243 Safari/537.36 Brave/93.0.4332.243
+Mozilla/5.0 (Linux; U; Android 9; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/3.1.2485.56 Safari/537.36 Vivaldi/3.1.2485.56
+Mozilla/5.0 (Linux; Android 12; Smart TV) Presto Maxthon/6.0.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Mobile; rv:4.1.9) Trident/7.0 SeaMonkey/4.1.9
+Mozilla/5.0 (Windows Phone 10.0; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Version/10.1.3 Safari/605.1.15
+Mozilla/5.0 (X11; Linux x86_64; Smart TV; rv:30.0) Trident/7.0 PaleMoon/30.0
+Mozilla/5.0 (Linux; Ubuntu 18.04; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/6.0.6
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Win64; x64)
+Mozilla/5.0 (Linux; Ubuntu 20.04; Smart TV; rv:66.0) Trident/7.0 Firefox/66.0
+Mozilla/5.0 (Linux; Android 10; Mobile) Gecko/20100101 Chrome/105.0.4623.300 Safari/537.36 Brave/105.0.4623.300
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Tablet; rv:28.0) AppleWebKit/537.36 (KHTML, like Gecko) PaleMoon/28.0
+Mozilla/5.0 (compatible; MSIE 8.0; Linux; Ubuntu 20.04)
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Tablet) Presto Chrome/69.0.3375.193 Safari/537.36 OPR/69.0.3375.193
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Mobile) Trident/7.0 Chrome/79.0.4147.268 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Tablet; rv:71.0) Presto Firefox/71.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Smart TV; rv:29.0) Presto PaleMoon/29.0
+Mozilla/5.0 (X11; Linux x86_64; Mobile) Gecko/20100101 Version/13.2.1 Safari/605.1.15
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Tablet) Presto Chrome/94.0.1356.40 Safari/537.36 Edg/94.0.1356.40
+Mozilla/5.0 (compatible; MSIE 10.0; Macintosh; Intel Mac OS X 11_0)
+Mozilla/5.0 (Linux; Android 10; Tablet; rv:65.0) Trident/7.0 Waterfox/65.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4619.106 Safari/537.36
+Brave/93.0.4619.106
+Mozilla/5.0 (Windows NT 5.1; Smart TV) Trident/7.0 Chrome/92.0.1892.15 Safari/537.36 Edg/92.0.1892.15
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Smart TV; rv:110.0) Gecko/20100101 Firefox/110.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Smart TV) Presto Maxthon/5.0.9
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Mobile; rv:4.41.0) Gecko/20100101 SeaMonkey/4.41.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Mobile; rv:3.17.4) WebKit SeaMonkey/3.17.4
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Desktop) Trident/7.0 Chrome/83.0.4317.100 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Desktop) Gecko/20100101 Maxthon/4.0.3
+Mozilla/5.0 (Linux; Ubuntu 18.04; Tablet; rv:2.21.2) Presto SeaMonkey/2.21.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Mobile) Trident/7.0 Maxthon/4.0.0
+Mozilla/5.0 (compatible; MSIE 10.0; Linux; U; Android 9)
+Mozilla/5.0 (Linux; Android 10; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Mobile; rv:30.0) Presto PaleMoon/30.0
+Mozilla/5.0 (Windows NT 5.1; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Version/11.0.0 Safari/605.1.15
+Mozilla/5.0 (Windows NT 6.1; WOW64; Smart TV; rv:4.49.9) Gecko/20100101 SeaMonkey/4.49.9
+Mozilla/5.0 (Linux; Android 12; Smart TV) Presto Chrome/93.0.1137.26 Safari/537.36 Edg/93.0.1137.26
+Mozilla/5.0 (Windows NT 6.1; WOW64; Tablet) Trident/7.0 Chrome/81.0.1138.42 Safari/537.36 Edg/81.0.1138.42
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Smart TV; rv:77.0) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/77.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Tablet) Trident/7.0 Maxthon/5.0.1
+Mozilla/5.0 (Linux; Android 11; Mobile; rv:3.4.8) WebKit SeaMonkey/3.4.8
+Mozilla/5.0 (Windows NT 6.1; WOW64; Mobile; rv:57.0) WebKit Waterfox/57.0
+Mozilla/5.0 (compatible; MSIE 8.0; Macintosh; Intel Mac OS X 12_0)
+Mozilla/5.0 (compatible; MSIE 10.0; X11; Ubuntu; Linux i686)
+Mozilla/5.0 (Linux; Android 11; Tablet) Trident/7.0 Version/12.1.0 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 10; Smart TV; rv:96.0) WebKit Firefox/96.0
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Desktop) WebKit Chrome/103.0.4640.109 Safari/537.36 Brave/103.0.4640.109
+Mozilla/5.0 (compatible; MSIE 10.0; iPhone; CPU iPhone OS 15_0 like Mac OS X)
+Mozilla/5.0 (X11; Linux x86_64; Mobile) Presto Chrome/91.0.1495.96 Safari/537.36 Edg/91.0.1495.96
+Mozilla/5.0 (Linux; Android 11; Smart TV) Presto Chrome/18.0.1785.168 Safari/537.36 YaBrowser/18.0.1785.168
+Mozilla/5.0 (Windows NT 6.1; WOW64; Smart TV; rv:66.0) Gecko/20100101 Firefox/66.0
+Mozilla/5.0 (Linux; Android 10; Smart TV) Gecko/20100101 Chrome/19.0.1501.117 Safari/537.36 YaBrowser/19.0.1501.117
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/3.2.2244.34 Safari/537.36
+Vivaldi/3.2.2244.34
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Desktop; rv:28.0) WebKit PaleMoon/28.0
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Mobile; rv:30.0) AppleWebKit/537.36 (KHTML, like Gecko) PaleMoon/30.0
+Mozilla/5.0 (Linux; Ubuntu 18.04; Desktop; rv:68.0) Gecko/20100101 Waterfox/68.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Smart TV) Presto Chrome/92.0.1975.53 Safari/537.36 Edg/92.0.1975.53
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Smart TV; rv:86.0) WebKit Firefox/86.0
+Mozilla/5.0 (Linux; Android 11; Mobile) WebKit Version/12.1.3 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 11; Mobile; rv:4.44.10) Gecko/20100101 SeaMonkey/4.44.10
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Mobile; rv:94.0) WebKit Firefox/94.0
+Mozilla/5.0 (Linux; U; Android 9; Tablet) WebKit Chrome/3.3.2391.10 Safari/537.36 Vivaldi/3.3.2391.10
+Mozilla/5.0 (Windows Phone 10.0; Desktop; rv:57.0) AppleWebKit/537.36 (KHTML, like Gecko) Waterfox/57.0
+Mozilla/5.0 (Linux; U; Android 9; Smart TV) Presto Chrome/3.5.2085.52 Safari/537.36 Vivaldi/3.5.2085.52
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.3890.174 Safari/537.36
+OPR/56.0.3890.174
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/19.0.1994.115 Safari/537.36
+YaBrowser/19.0.1994.115
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Smart TV; rv:3.40.9) Presto SeaMonkey/3.40.9
+Mozilla/5.0 (X11; Linux x86_64; Tablet) Gecko/20100101 Chrome/21.0.1772.156 Safari/537.36 YaBrowser/21.0.1772.156
+Mozilla/5.0 (Linux; Ubuntu 20.04; Smart TV) Gecko/20100101 Maxthon/4.0.3
+Mozilla/5.0 (Linux; Android 11; Mobile; rv:99.0) Gecko/20100101 Firefox/99.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Smart TV) Presto Maxthon/4.0.5
+Mozilla/5.0 (Linux; Android 10; Mobile) Trident/7.0 Chrome/81.0.1663.81 Safari/537.36 Edg/81.0.1663.81
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Mobile) Gecko/20100101 Chrome/69.0.4299.221 Safari/537.36 OPR/69.0.4299.221
+Mozilla/5.0 (Linux; Ubuntu 18.04; Tablet) Gecko/20100101 Chrome/94.0.4813.206 Safari/537.36 Brave/94.0.4813.206
+Mozilla/5.0 (Windows NT 6.1; WOW64; Tablet) Gecko/20100101 Version/12.0.0 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 12; Smart TV) WebKit Chrome/84.0.4548.289 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 20.04; Smart TV; rv:57.0) Presto Waterfox/57.0
+Mozilla/5.0 (compatible; MSIE 10.0; Linux; Android 10)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Smart TV; rv:28.0) Gecko/20100101 PaleMoon/28.0
+Mozilla/5.0 (Windows NT 5.1; Smart TV) Gecko/20100101 Chrome/5.8.2847.11 Safari/537.36 Vivaldi/5.8.2847.11
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Tablet) Gecko/20100101 Chrome/99.0.4397.127 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Smart TV) WebKit Chrome/79.0.4118.287 Safari/537.36 OPR/79.0.4118.287
+Mozilla/5.0 (Windows Phone 10.0; Mobile) Presto Chrome/100.0.4575.255 Safari/537.36 Brave/100.0.4575.255
+Mozilla/5.0 (X11; Linux x86_64; Smart TV) Presto Version/15.0.2 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Version/10.0.0 Safari/605.1.15
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Mobile) WebKit Chrome/18.0.1592.195 Safari/537.36 YaBrowser/18.0.1592.195
+Mozilla/5.0 (X11; Linux x86_64; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.1890.16 Safari/537.36 Edg/85.0.1890.16
+Mozilla/5.0 (Linux; Ubuntu 18.04; Smart TV) Trident/7.0 Chrome/3.1.2263.14 Safari/537.36 Vivaldi/3.1.2263.14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Smart TV; rv:99.0) Gecko/20100101 Firefox/99.0
+Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.3; Win64; x64)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Desktop) Presto Chrome/104.0.4501.225 Safari/537.36 Brave/104.0.4501.225
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/21.0.1818.175 Safari/537.36
+YaBrowser/21.0.1818.175
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Smart TV) Trident/7.0 Version/15.2.5 Safari/605.1.15
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Mobile; rv:2.44.1) Trident/7.0 SeaMonkey/2.44.1
+Mozilla/5.0 (Linux; Android 12; Smart TV) Trident/7.0 Chrome/97.0.4150.186 Safari/537.36 Brave/97.0.4150.186
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Tablet) WebKit Chrome/95.0.4037.141 Safari/537.36 Brave/95.0.4037.141
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Mobile; rv:32.0) AppleWebKit/537.36 (KHTML, like Gecko) PaleMoon/32.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Mobile) Trident/7.0 Chrome/89.0.4886.104 Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Mobile) Trident/7.0 Maxthon/5.0.6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Smart TV) Presto Chrome/17.0.1554.143 Safari/537.36 YaBrowser/17.0.1554.143
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Desktop) Trident/7.0 Maxthon/6.0.2
+Mozilla/5.0 (compatible; MSIE 9.0; X11; Ubuntu; Linux i686)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Smart TV; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Mobile; rv:60.0) Gecko/20100101 Waterfox/60.0
+Mozilla/5.0 (Windows Phone 10.0; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/6.0.7
+Mozilla/5.0 (Windows NT 6.1; WOW64; Tablet; rv:65.0) WebKit Waterfox/65.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; Tablet) Gecko/20100101 Maxthon/5.0.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Desktop; rv:3.19.7) Presto SeaMonkey/3.19.7
+Mozilla/5.0 (Windows NT 5.1; Smart TV; rv:3.31.1) WebKit SeaMonkey/3.31.1
+Mozilla/5.0 (compatible; MSIE 11.0; X11; Linux x86_64)
+Mozilla/5.0 (Windows NT 5.1; Mobile) Trident/7.0 Chrome/5.8.2295.12 Safari/537.36 Vivaldi/5.8.2295.12
+Mozilla/5.0 (Linux; Ubuntu 18.04; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/3.4.2473.50 Safari/537.36 Vivaldi/3.4.2473.50
+Mozilla/5.0 (Linux; Android 12; Smart TV) WebKit Maxthon/6.0.2
+Mozilla/5.0 (Windows NT 6.1; WOW64; Tablet; rv:3.7.0) Trident/7.0 SeaMonkey/3.7.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Smart TV; rv:2.32.8) Gecko/20100101 SeaMonkey/2.32.8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Mobile; rv:61.0) Gecko/20100101 Waterfox/61.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Desktop) WebKit Chrome/52.0.4558.222 Safari/537.36 OPR/52.0.4558.222
+Mozilla/5.0 (Linux; Android 10; Desktop) Trident/7.0 Chrome/80.0.1049.92 Safari/537.36 Edg/80.0.1049.92
+Mozilla/5.0 (Windows NT 5.1; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.3709.165 Safari/537.36 Brave/92.0.3709.165
+Mozilla/5.0 (Linux; Android 12; Smart TV) Presto Version/13.0.2 Safari/605.1.15
+Mozilla/5.0 (Windows NT 6.1; WOW64; Desktop; rv:29.0) Gecko/20100101 PaleMoon/29.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Tablet; rv:2.11.4) Trident/7.0 SeaMonkey/2.11.4
+Mozilla/5.0 (Windows NT 6.1; WOW64; Tablet) Gecko/20100101 Maxthon/6.0.10
+Mozilla/5.0 (Windows NT 5.1; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/6.0.2
+Mozilla/5.0 (Linux; Android 10; Mobile) Trident/7.0 Chrome/96.0.4611.202 Safari/537.36 Brave/96.0.4611.202
+Mozilla/5.0 (Linux; Ubuntu 18.04; Tablet) Gecko/20100101 Chrome/91.0.4603.216 Safari/537.36 Brave/91.0.4603.216
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Tablet) WebKit Chrome/85.0.1567.2 Safari/537.36 Edg/85.0.1567.2
+Mozilla/5.0 (Windows NT 6.1; WOW64; Mobile; rv:32.0) AppleWebKit/537.36 (KHTML, like Gecko) PaleMoon/32.0
+Mozilla/5.0 (Windows Phone 10.0; Smart TV; rv:58.0) Presto Waterfox/58.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Desktop) Gecko/20100101 Maxthon/6.0.5
+Mozilla/5.0 (Windows NT 5.1; Mobile; rv:99.0) Trident/7.0 Firefox/99.0
+Mozilla/5.0 (Linux; Ubuntu 20.04; Tablet) WebKit Version/15.1.4 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Desktop; rv:60.0) WebKit Waterfox/60.0
+Mozilla/5.0 (Windows Phone 10.0; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/6.0.2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Mobile; rv:29.0) Gecko/20100101 PaleMoon/29.0
+Mozilla/5.0 (Linux; Android 11; Mobile; rv:30.0) WebKit PaleMoon/30.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Smart TV) Gecko/20100101 Chrome/21.0.1536.142 Safari/537.36 YaBrowser/21.0.1536.142
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Tablet) Gecko/20100101 Chrome/19.0.1975.151 Safari/537.36 YaBrowser/19.0.1975.151
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Tablet) Presto Chrome/18.0.1541.127 Safari/537.36 YaBrowser/18.0.1541.127
+Mozilla/5.0 (Linux; Android 11; Mobile; rv:57.0) WebKit Waterfox/57.0
+Mozilla/5.0 (Linux; Android 12; Desktop; rv:88.0) Presto Firefox/88.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Desktop; rv:2.6.5) Trident/7.0 SeaMonkey/2.6.5
+Mozilla/5.0 (Windows NT 6.1; WOW64; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4217.108 Safari/537.36
+Mozilla/5.0 (Linux; U; Android 9; Desktop) Trident/7.0 Chrome/92.0.4588.272 Safari/537.36 Brave/92.0.4588.272
+Mozilla/5.0 (Linux; U; Android 9; Smart TV; rv:4.20.7) Trident/7.0 SeaMonkey/4.20.7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.3891.267 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Mobile) Trident/7.0 Chrome/17.0.1733.142 Safari/537.36 YaBrowser/17.0.1733.142
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Mobile) WebKit Chrome/88.0.4574.256 Safari/537.36
+Mozilla/5.0 (Windows Phone 10.0; Mobile; rv:60.0) AppleWebKit/537.36 (KHTML, like Gecko) Waterfox/60.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Desktop) Presto Version/13.1.5 Safari/605.1.15
+Mozilla/5.0 (Windows NT 6.1; WOW64; Desktop) Gecko/20100101 Chrome/86.0.4811.199 Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Tablet; rv:58.0) AppleWebKit/537.36 (KHTML, like Gecko) Waterfox/58.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/4.6.2420.44 Safari/537.36
+Vivaldi/4.6.2420.44
+Mozilla/5.0 (Windows NT 6.1; WOW64; Smart TV) Presto Chrome/92.0.4305.286 Safari/537.36 Brave/92.0.4305.286
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.1109.52 Safari/537.36 Edg/81.0.1109.52
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Mobile) Gecko/20100101 Chrome/92.0.3759.231 Safari/537.36 Brave/92.0.3759.231
+Mozilla/5.0 (Windows NT 5.1; Desktop) Gecko/20100101 Chrome/92.0.4560.175 Safari/537.36 Brave/92.0.4560.175
+Mozilla/5.0 (Windows NT 5.1; Desktop; rv:4.18.3) Trident/7.0 SeaMonkey/4.18.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Mobile; rv:2.27.5) Presto SeaMonkey/2.27.5
+Mozilla/5.0 (Linux; Android 10; Desktop) Gecko/20100101 Version/14.1.0 Safari/605.1.15
+Mozilla/5.0 (Linux; Ubuntu 20.04; Tablet; rv:31.0) Gecko/20100101 PaleMoon/31.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Mobile; rv:32.0) Trident/7.0 PaleMoon/32.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Mobile) WebKit Chrome/3.0.2996.77 Safari/537.36 Vivaldi/3.0.2996.77
+Mozilla/5.0 (Windows Phone 10.0; Smart TV) WebKit Chrome/84.0.4633.268 Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Desktop; rv:3.24.0) AppleWebKit/537.36 (KHTML, like Gecko) SeaMonkey/3.24.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; Tablet; rv:99.0) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/99.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Desktop; rv:2.28.0) AppleWebKit/537.36 (KHTML, like Gecko) SeaMonkey/2.28.0
+Mozilla/5.0 (compatible; MSIE 11.0; X11; Linux x86_64)
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Mobile; rv:75.0) WebKit Firefox/75.0
+Mozilla/5.0 (Windows Phone 10.0; Mobile) Presto Maxthon/5.0.3
+Mozilla/5.0 (Linux; Ubuntu 18.04; Mobile) Gecko/20100101 Chrome/21.0.1794.155 Safari/537.36 YaBrowser/21.0.1794.155
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Desktop) WebKit Chrome/98.0.4635.211 Safari/537.36 Brave/98.0.4635.211
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/3.5.2096.80 Safari/537.36 Vivaldi/3.5.2096.80
+Mozilla/5.0 (X11; Linux x86_64; Mobile; rv:66.0) Trident/7.0 Waterfox/66.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Tablet) Trident/7.0 Chrome/76.0.4374.241 Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Mobile) Trident/7.0 Chrome/54.0.3733.119 Safari/537.36 OPR/54.0.3733.119
+Mozilla/5.0 (Windows NT 5.1; Smart TV) Presto Version/10.1.2 Safari/605.1.15
+Mozilla/5.0 (compatible; MSIE 11.0; Linux; Ubuntu 20.04)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Tablet) Presto Maxthon/6.0.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Desktop; rv:66.0) Trident/7.0 Waterfox/66.0
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Mobile; rv:58.0) WebKit Waterfox/58.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Mobile) Presto Chrome/75.0.4003.191 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 18.04; Mobile) Gecko/20100101 Maxthon/6.0.4
+Mozilla/5.0 (Linux; Android 12; Mobile) WebKit Chrome/19.0.1821.126 Safari/537.36 YaBrowser/19.0.1821.126
+Mozilla/5.0 (Windows NT 5.1; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Version/11.2.3 Safari/605.1.15
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Tablet; rv:3.1.6) Trident/7.0 SeaMonkey/3.1.6
+Mozilla/5.0 (X11; Linux x86_64; Desktop; rv:56.0) Presto Waterfox/56.0
+Mozilla/5.0 (Windows Phone 10.0; Tablet) WebKit Chrome/90.0.1417.27 Safari/537.36 Edg/90.0.1417.27
+Mozilla/5.0 (Linux; Ubuntu 18.04; Tablet) Presto Chrome/18.0.1735.179 Safari/537.36 YaBrowser/18.0.1735.179
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Tablet; rv:63.0) Presto Waterfox/63.0
+Mozilla/5.0 (Linux; Android 11; Desktop) Trident/7.0 Chrome/84.0.1763.13 Safari/537.36 Edg/84.0.1763.13
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Mobile; rv:78.0) Gecko/20100101 Firefox/78.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.1416.16 Safari/537.36
+Edg/95.0.1416.16
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Tablet; rv:32.0) Trident/7.0 PaleMoon/32.0
+Mozilla/5.0 (Linux; Android 10; Tablet; rv:31.0) Presto PaleMoon/31.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Desktop; rv:58.0) AppleWebKit/537.36 (KHTML, like Gecko) Waterfox/58.0
+Mozilla/5.0 (Linux; Android 11; Tablet; rv:68.0) Gecko/20100101 Waterfox/68.0
+Mozilla/5.0 (Windows Phone 10.0; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Version/15.2.5 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Mobile) Gecko/20100101 Chrome/66.0.3068.179 Safari/537.36 OPR/66.0.3068.179
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.0.6
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Tablet) Presto Version/10.0.5 Safari/605.1.15
+Mozilla/5.0 (Windows NT 6.1; WOW64; Smart TV; rv:3.8.2) AppleWebKit/537.36 (KHTML, like Gecko) SeaMonkey/3.8.2
+Mozilla/5.0 (Linux; Ubuntu 18.04; Tablet) WebKit Version/13.0.0 Safari/605.1.15
+Mozilla/5.0 (Linux; U; Android 9; Desktop) Trident/7.0 Chrome/58.0.3194.299 Safari/537.36 OPR/58.0.3194.299
+Mozilla/5.0 (Linux; U; Android 9; Mobile) Trident/7.0 Version/15.0.5 Safari/605.1.15
+Mozilla/5.0 (Windows NT 5.1; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.0.6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Tablet; rv:3.15.4) Presto SeaMonkey/3.15.4
+Mozilla/5.0 (Windows NT 5.1; Desktop; rv:60.0) Presto Waterfox/60.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Tablet) Presto Chrome/69.0.4427.226 Safari/537.36 OPR/69.0.4427.226
+Mozilla/5.0 (compatible; MSIE 8.0; iPhone; CPU iPhone OS 15_0 like Mac OS X)
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Mobile) Gecko/20100101 Chrome/94.0.1710.55 Safari/537.36 Edg/94.0.1710.55
+Mozilla/5.0 (Linux; Android 12; Tablet; rv:102.0) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/102.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Mobile) Gecko/20100101 Chrome/95.0.1434.22 Safari/537.36 Edg/95.0.1434.22
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Mobile) Presto Chrome/3.2.2183.21 Safari/537.36 Vivaldi/3.2.2183.21
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Desktop) Gecko/20100101 Chrome/70.0.4706.243 Safari/537.36 OPR/70.0.4706.243
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Mobile) Presto Chrome/4.2.2778.31 Safari/537.36 Vivaldi/4.2.2778.31
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.1458.24 Safari/537.36
+Edg/85.0.1458.24
+Mozilla/5.0 (compatible; MSIE 9.0; iPhone; CPU iPhone OS 14_0 like Mac OS X)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3717.232 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Desktop; rv:29.0) Gecko/20100101 PaleMoon/29.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Tablet; rv:3.46.8) AppleWebKit/537.36 (KHTML, like Gecko) SeaMonkey/3.46.8
+Mozilla/5.0 (compatible; MSIE 9.0; Linux; Ubuntu 20.04)
+Mozilla/5.0 (compatible; MSIE 11.0; Macintosh; Intel Mac OS X 12_0)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Version/10.1.0 Safari/605.1.15
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Desktop) WebKit Chrome/20.0.1742.109 Safari/537.36 YaBrowser/20.0.1742.109
+Mozilla/5.0 (Linux; Ubuntu 20.04; Desktop) Trident/7.0 Chrome/97.0.1573.71 Safari/537.36 Edg/97.0.1573.71
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Tablet; rv:29.0) Trident/7.0 PaleMoon/29.0
+Mozilla/5.0 (Linux; Android 11; Mobile) Presto Chrome/77.0.3894.271 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Desktop) Gecko/20100101 Maxthon/4.0.6
+Mozilla/5.0 (Linux; Android 11; Mobile) Trident/7.0 Chrome/91.0.4594.251 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64; Mobile) Gecko/20100101 Version/10.1.2 Safari/605.1.15
+Mozilla/5.0 (Windows NT 5.1; Tablet; rv:77.0) Presto Firefox/77.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Tablet) Gecko/20100101 Chrome/94.0.1337.83 Safari/537.36 Edg/94.0.1337.83
+Mozilla/5.0 (Linux; U; Android 9; Smart TV; rv:29.0) AppleWebKit/537.36 (KHTML, like Gecko) PaleMoon/29.0
+Mozilla/5.0 (Linux; Ubuntu 20.04; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/4.7.2890.72 Safari/537.36 Vivaldi/4.7.2890.72
+Mozilla/5.0 (compatible; MSIE 11.0; iPhone; CPU iPhone OS 15_0 like Mac OS X)
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Desktop; rv:66.0) WebKit Waterfox/66.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Mobile) WebKit Chrome/4.6.2781.58 Safari/537.36 Vivaldi/4.6.2781.58
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Smart TV) Presto Chrome/82.0.1051.97 Safari/537.36 Edg/82.0.1051.97
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Mobile) Presto Chrome/57.0.3557.188 Safari/537.36 OPR/57.0.3557.188
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4749.125 Safari/537.36
+Brave/104.0.4749.125
+Mozilla/5.0 (Windows Phone 10.0; Desktop) WebKit Chrome/67.0.3502.206 Safari/537.36 OPR/67.0.3502.206
+Mozilla/5.0 (Linux; Android 12; Desktop) Trident/7.0 Chrome/100.0.1392.79 Safari/537.36 Edg/100.0.1392.79
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Smart TV) Presto Chrome/17.0.1582.183 Safari/537.36 YaBrowser/17.0.1582.183
+Mozilla/5.0 (Linux; Ubuntu 20.04; Mobile) Presto Chrome/101.0.3836.105 Safari/537.36
+Mozilla/5.0 (compatible; MSIE 9.0; Linux; Android 12)
+Mozilla/5.0 (Windows NT 6.1; WOW64; Tablet) Gecko/20100101 Chrome/21.0.1907.168 Safari/537.36 YaBrowser/21.0.1907.168
+Mozilla/5.0 (Linux; Ubuntu 20.04; Smart TV) Gecko/20100101 Chrome/18.0.1999.165 Safari/537.36 YaBrowser/18.0.1999.165
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Tablet) Presto Chrome/89.0.4609.265 Safari/537.36
+Mozilla/5.0 (Windows NT 5.1; Desktop) WebKit Chrome/5.10.2538.81 Safari/537.36 Vivaldi/5.10.2538.81
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64)
+Mozilla/5.0 (Linux; Ubuntu 20.04; Mobile; rv:66.0) AppleWebKit/537.36 (KHTML, like Gecko) Waterfox/66.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Mobile) Trident/7.0 Version/10.0.2 Safari/605.1.15
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Smart TV; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4037.268 Safari/537.36
+Brave/101.0.4037.268
+Mozilla/5.0 (compatible; MSIE 10.0; Macintosh; Intel Mac OS X 10_14_6)
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Mobile; rv:28.0) Gecko/20100101 PaleMoon/28.0
+Mozilla/5.0 (Linux; Android 10; Smart TV; rv:4.28.7) WebKit SeaMonkey/4.28.7
+Mozilla/5.0 (Linux; Android 12; Tablet) WebKit Chrome/4.3.2068.50 Safari/537.36 Vivaldi/4.3.2068.50
+Mozilla/5.0 (Linux; Android 12; Desktop) Trident/7.0 Chrome/21.0.1564.194 Safari/537.36 YaBrowser/21.0.1564.194
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Tablet; rv:64.0) Presto Waterfox/64.0
+Mozilla/5.0 (Linux; Android 10; Tablet) Presto Chrome/3.1.2096.91 Safari/537.36 Vivaldi/3.1.2096.91
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Mobile; rv:29.0) Trident/7.0 PaleMoon/29.0
+Mozilla/5.0 (Linux; Android 12; Smart TV) Gecko/20100101 Chrome/3.1.2253.52 Safari/537.36 Vivaldi/3.1.2253.52
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Smart TV; rv:65.0) Presto Waterfox/65.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Tablet) Presto Chrome/19.0.1838.196 Safari/537.36 YaBrowser/19.0.1838.196
+Mozilla/5.0 (compatible; MSIE 10.0; Linux; Ubuntu 18.04)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Mobile) Presto Maxthon/5.0.0
+Mozilla/5.0 (Windows NT 5.1; Mobile; rv:58.0) AppleWebKit/537.36 (KHTML, like Gecko) Waterfox/58.0
+Mozilla/5.0 (X11; Linux x86_64; Smart TV) Trident/7.0 Maxthon/4.0.2
+Mozilla/5.0 (Linux; Android 12; Smart TV) WebKit Chrome/21.0.1848.172 Safari/537.36 YaBrowser/21.0.1848.172
+Mozilla/5.0 (Windows Phone 10.0; Desktop) Presto Chrome/97.0.1499.38 Safari/537.36 Edg/97.0.1499.38
+Mozilla/5.0 (Linux; Ubuntu 20.04; Tablet) WebKit Chrome/5.1.2477.100 Safari/537.36 Vivaldi/5.1.2477.100
+Mozilla/5.0 (Windows NT 6.1; WOW64; Tablet) Gecko/20100101 Chrome/97.0.1337.50 Safari/537.36 Edg/97.0.1337.50
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Version/10.1.5 Safari/605.1.15
+Mozilla/5.0 (Windows Phone 10.0; Mobile) Gecko/20100101 Chrome/19.0.1799.154 Safari/537.36 YaBrowser/19.0.1799.154
+Mozilla/5.0 (Linux; Android 10; Desktop) Presto Chrome/71.0.4105.126 Safari/537.36 OPR/71.0.4105.126
+Mozilla/5.0 (Linux; Ubuntu 20.04; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.1279.92 Safari/537.36 Edg/82.0.1279.92
+Mozilla/5.0 (Windows NT 6.1; WOW64; Desktop) WebKit Chrome/102.0.4929.139 Safari/537.36
+Mozilla/5.0 (Windows Phone 10.0; Smart TV) Gecko/20100101 Version/11.1.1 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.3543.248 Safari/537.36
+Brave/102.0.3543.248
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Tablet) Trident/7.0 Chrome/76.0.3751.164 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Version/15.2.1 Safari/605.1.15
+Mozilla/5.0 (Linux; U; Android 9; Desktop; rv:32.0) AppleWebKit/537.36 (KHTML, like Gecko) PaleMoon/32.0
+Mozilla/5.0 (Linux; Android 11; Smart TV; rv:4.6.3) Gecko/20100101 SeaMonkey/4.6.3
+Mozilla/5.0 (Linux; Ubuntu 18.04; Mobile) Gecko/20100101 Chrome/89.0.1837.42 Safari/537.36 Edg/89.0.1837.42
+Mozilla/5.0 (Windows NT 6.1; WOW64; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Version/11.1.1 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Smart TV) Gecko/20100101 Chrome/96.0.1246.13 Safari/537.36 Edg/96.0.1246.13
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Mobile; rv:3.3.1) WebKit SeaMonkey/3.3.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Desktop) WebKit Chrome/70.0.3791.205 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.1428.1 Safari/537.36 Edg/83.0.1428.1
+Mozilla/5.0 (X11; Linux x86_64; Tablet; rv:56.0) WebKit Waterfox/56.0
+Mozilla/5.0 (Linux; Ubuntu 18.04; Mobile) WebKit Maxthon/4.0.8
+Mozilla/5.0 (Linux; U; Android 9; Tablet; rv:67.0) Presto Waterfox/67.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Desktop) Presto Chrome/89.0.1600.6 Safari/537.36 Edg/89.0.1600.6
+Mozilla/5.0 (Linux; Android 10; Desktop) WebKit Chrome/17.0.1967.173 Safari/537.36 YaBrowser/17.0.1967.173
+Mozilla/5.0 (Windows Phone 10.0; Tablet) Gecko/20100101 Chrome/90.0.4943.255 Safari/537.36 Brave/90.0.4943.255
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Desktop) Presto Chrome/78.0.4545.217 Safari/537.36 OPR/78.0.4545.217
+Mozilla/5.0 (Linux; Ubuntu 18.04; Mobile) Gecko/20100101 Version/15.0.4 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Mobile) WebKit Version/14.2.5 Safari/605.1.15
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Tablet) Trident/7.0 Version/14.1.4 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Mobile; rv:84.0) Presto Firefox/84.0
+Mozilla/5.0 (Windows Phone 10.0; Smart TV; rv:28.0) AppleWebKit/537.36 (KHTML, like Gecko) PaleMoon/28.0
+Mozilla/5.0 (Windows Phone 10.0; Desktop) Trident/7.0 Version/10.0.1 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 12; Tablet; rv:28.0) Gecko/20100101 PaleMoon/28.0
+Mozilla/5.0 (Linux; Android 12; Mobile) WebKit Chrome/98.0.1409.81 Safari/537.36 Edg/98.0.1409.81
+Mozilla/5.0 (Linux; Android 12; Smart TV) WebKit Chrome/87.0.1273.95 Safari/537.36 Edg/87.0.1273.95
+Mozilla/5.0 (Windows Phone 10.0; Smart TV) Gecko/20100101 Version/14.1.1 Safari/605.1.15
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Version/15.2.5 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 10; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4587.289 Safari/537.36 Brave/99.0.4587.289
+Mozilla/5.0 (Windows NT 5.1; Desktop) Trident/7.0 Chrome/90.0.3605.262 Safari/537.36 Brave/90.0.3605.262
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Desktop) Presto Maxthon/6.0.1
+Mozilla/5.0 (X11; Linux x86_64; Tablet) Trident/7.0 Chrome/82.0.3828.292 Safari/537.36
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64)
+Mozilla/5.0 (Windows NT 5.1; Desktop) Gecko/20100101 Chrome/3.6.2149.55 Safari/537.36 Vivaldi/3.6.2149.55
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Desktop; rv:2.4.2) Presto SeaMonkey/2.4.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Desktop; rv:3.40.8) Gecko/20100101 SeaMonkey/3.40.8
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Desktop) Trident/7.0 Chrome/78.0.4400.114 Safari/537.36
+Mozilla/5.0 (Windows Phone 10.0; Smart TV) Trident/7.0 Chrome/72.0.4491.265 Safari/537.36
+Mozilla/5.0 (Windows Phone 10.0; Mobile; rv:80.0) Trident/7.0 Firefox/80.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Desktop; rv:63.0) Gecko/20100101 Waterfox/63.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/19.0.1675.134 Safari/537.36
+YaBrowser/19.0.1675.134
+Mozilla/5.0 (compatible; MSIE 11.0; Macintosh; Intel Mac OS X 10_15_7)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Desktop; rv:69.0) Trident/7.0 Firefox/69.0
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.0; Win64; x64)
+Mozilla/5.0 (compatible; MSIE 11.0; Linux; U; Android 9)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Tablet; rv:32.0) WebKit PaleMoon/32.0
+Mozilla/5.0 (compatible; MSIE 10.0; Macintosh; Intel Mac OS X 11_0)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Tablet; rv:28.0) AppleWebKit/537.36 (KHTML, like Gecko) PaleMoon/28.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Smart TV) Trident/7.0 Chrome/75.0.4898.212 Safari/537.36 OPR/75.0.4898.212
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Desktop) Trident/7.0 Chrome/20.0.1636.157 Safari/537.36 YaBrowser/20.0.1636.157
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Smart TV) Presto Chrome/87.0.3757.245 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Smart TV; rv:2.42.0) Gecko/20100101 SeaMonkey/2.42.0
+Mozilla/5.0 (X11; Linux x86_64; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.1176.18 Safari/537.36 Edg/99.0.1176.18
+Mozilla/5.0 (Windows NT 6.1; WOW64; Tablet; rv:29.0) WebKit PaleMoon/29.0
+Mozilla/5.0 (Windows NT 5.1; Tablet) Presto Chrome/70.0.4864.166 Safari/537.36 OPR/70.0.4864.166
+Mozilla/5.0 (Linux; U; Android 9; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.1652.1 Safari/537.36 Edg/86.0.1652.1
+Mozilla/5.0 (Windows NT 5.1; Mobile) Presto Chrome/19.0.1689.128 Safari/537.36 YaBrowser/19.0.1689.128
+Mozilla/5.0 (Linux; Ubuntu 18.04; Desktop; rv:32.0) WebKit PaleMoon/32.0
+Mozilla/5.0 (Linux; Ubuntu 18.04; Tablet; rv:4.36.10) Presto SeaMonkey/4.36.10
+Mozilla/5.0 (Linux; Android 10; Smart TV) WebKit Maxthon/5.0.6
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/5.1.2328.97 Safari/537.36
+Vivaldi/5.1.2328.97
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Smart TV; rv:28.0) AppleWebKit/537.36 (KHTML, like Gecko) PaleMoon/28.0
+Mozilla/5.0 (Windows NT 5.1; Tablet) Presto Maxthon/4.0.4
+Mozilla/5.0 (Linux; Android 10; Smart TV; rv:4.36.4) WebKit SeaMonkey/4.36.4
+Mozilla/5.0 (Windows Phone 10.0; Tablet) Presto Chrome/97.0.3980.253 Safari/537.36 Brave/97.0.3980.253
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Desktop; rv:57.0) WebKit Waterfox/57.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Desktop) WebKit Chrome/92.0.4134.252 Safari/537.36
+Mozilla/5.0 (Linux; U; Android 9; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3200.156 Safari/537.36 OPR/66.0.3200.156
+Mozilla/5.0 (X11; Linux x86_64; Tablet) Presto Maxthon/6.0.1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Desktop; rv:106.0) Gecko/20100101 Firefox/106.0
+Mozilla/5.0 (compatible; MSIE 11.0; Macintosh; Intel Mac OS X 12_0)
+Mozilla/5.0 (Linux; Android 10; Desktop; rv:66.0) Trident/7.0 Waterfox/66.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Tablet) Presto Chrome/70.0.4289.243 Safari/537.36 OPR/70.0.4289.243
+Mozilla/5.0 (X11; Linux x86_64; Mobile) Trident/7.0 Chrome/20.0.1788.107 Safari/537.36 YaBrowser/20.0.1788.107
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Tablet; rv:56.0) Gecko/20100101 Waterfox/56.0
+Mozilla/5.0 (Linux; U; Android 9; Tablet; rv:62.0) Presto Firefox/62.0
+Mozilla/5.0 (Linux; Android 10; Desktop; rv:29.0) Presto PaleMoon/29.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.0.7
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Desktop) Presto Chrome/18.0.1893.135 Safari/537.36 YaBrowser/18.0.1893.135
+Mozilla/5.0 (X11; Linux x86_64; Desktop; rv:31.0) Trident/7.0 PaleMoon/31.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; Mobile) Trident/7.0 Chrome/70.0.4759.214 Safari/537.36
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Desktop; rv:64.0) Gecko/20100101 Firefox/64.0
+Mozilla/5.0 (Linux; Ubuntu 18.04; Desktop) Gecko/20100101 Chrome/92.0.4666.295 Safari/537.36 Brave/92.0.4666.295
+Mozilla/5.0 (Linux; U; Android 9; Mobile; rv:65.0) Trident/7.0 Firefox/65.0
+Mozilla/5.0 (Windows NT 5.1; Tablet; rv:68.0) Trident/7.0 Firefox/68.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Desktop; rv:3.44.1) Trident/7.0 SeaMonkey/3.44.1
+Mozilla/5.0 (Linux; U; Android 9; Mobile) Gecko/20100101 Chrome/17.0.1859.151 Safari/537.36 YaBrowser/17.0.1859.151
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Desktop) Presto Chrome/17.0.1876.107 Safari/537.36 YaBrowser/17.0.1876.107
+Mozilla/5.0 (Linux; Ubuntu 20.04; Tablet; rv:28.0) Presto PaleMoon/28.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Tablet; rv:4.20.9) WebKit SeaMonkey/4.20.9
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Desktop) WebKit Chrome/4.3.2683.58 Safari/537.36 Vivaldi/4.3.2683.58
+Mozilla/5.0 (Linux; Android 11; Tablet; rv:4.4.3) Presto SeaMonkey/4.4.3
+Mozilla/5.0 (Linux; Android 10; Mobile) Presto Version/13.0.0 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 12; Desktop; rv:109.0) Presto Firefox/109.0
+Mozilla/5.0 (Linux; Ubuntu 20.04; Smart TV) Presto Chrome/17.0.1676.196 Safari/537.36 YaBrowser/17.0.1676.196
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Mobile; rv:59.0) Presto Waterfox/59.0
+Mozilla/5.0 (Linux; Android 12; Mobile; rv:68.0) Trident/7.0 Waterfox/68.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Tablet; rv:110.0) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/110.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Desktop; rv:29.0) Gecko/20100101 PaleMoon/29.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Tablet; rv:2.38.6) Trident/7.0 SeaMonkey/2.38.6
+Mozilla/5.0 (Windows NT 6.1; WOW64; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.0.9
+Mozilla/5.0 (X11; Linux x86_64; Tablet) Trident/7.0 Chrome/63.0.3104.131 Safari/537.36 OPR/63.0.3104.131
+Mozilla/5.0 (Windows NT 5.1; Mobile) Gecko/20100101 Chrome/95.0.1939.53 Safari/537.36 Edg/95.0.1939.53
+Mozilla/5.0 (Linux; Android 11; Tablet; rv:4.12.0) Presto SeaMonkey/4.12.0
+Mozilla/5.0 (Linux; Ubuntu 18.04; Mobile) WebKit Chrome/95.0.4967.205 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 20.04; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Version/12.1.4 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.1008.42 Safari/537.36
+Edg/96.0.1008.42
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Desktop) Trident/7.0 Maxthon/4.0.0
+Mozilla/5.0 (X11; Linux x86_64; Mobile) Gecko/20100101 Chrome/90.0.4266.235 Safari/537.36 Brave/90.0.4266.235
+Mozilla/5.0 (Linux; Ubuntu 18.04; Smart TV; rv:4.21.5) AppleWebKit/537.36 (KHTML, like Gecko) SeaMonkey/4.21.5
+Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.3; Win64; x64)
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Mobile; rv:29.0) Trident/7.0 PaleMoon/29.0
+Mozilla/5.0 (Linux; Android 11; Mobile; rv:66.0) WebKit Waterfox/66.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Smart TV) Gecko/20100101 Chrome/91.0.4702.121 Safari/537.36 Brave/91.0.4702.121
+Mozilla/5.0 (Linux; Ubuntu 18.04; Smart TV) WebKit Chrome/94.0.3873.256 Safari/537.36 Brave/94.0.3873.256
+Mozilla/5.0 (Linux; Android 12; Smart TV) Presto Version/13.1.1 Safari/605.1.15
+Mozilla/5.0 (Windows Phone 10.0; Desktop) Gecko/20100101 Chrome/70.0.4381.245 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4878.181 Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Smart TV; rv:66.0) Gecko/20100101 Waterfox/66.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Desktop) Trident/7.0 Chrome/3.0.2772.25 Safari/537.36 Vivaldi/3.0.2772.25
+Mozilla/5.0 (compatible; MSIE 10.0; X11; Linux x86_64)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Desktop) Trident/7.0 Chrome/20.0.1639.173 Safari/537.36 YaBrowser/20.0.1639.173
+Mozilla/5.0 (Linux; Ubuntu 18.04; Tablet; rv:4.12.4) Presto SeaMonkey/4.12.4
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Mobile) Gecko/20100101 Chrome/94.0.4688.204 Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Smart TV) Trident/7.0 Chrome/92.0.4904.193 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Smart TV) Gecko/20100101 Chrome/19.0.1739.142 Safari/537.36 YaBrowser/19.0.1739.142
+Mozilla/5.0 (compatible; MSIE 11.0; Linux; Android 12)
+Mozilla/5.0 (Linux; Ubuntu 18.04; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/18.0.1815.198 Safari/537.36 YaBrowser/18.0.1815.198
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Smart TV; rv:62.0) Presto Waterfox/62.0
+Mozilla/5.0 (X11; Linux x86_64; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.3978.226 Safari/537.36
+Mozilla/5.0 (Linux; Ubuntu 18.04; Smart TV) Trident/7.0 Maxthon/5.0.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Smart TV; rv:68.0) Presto Waterfox/68.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Smart TV) Gecko/20100101 Version/15.1.2 Safari/605.1.15
+Mozilla/5.0 (Linux; Ubuntu 20.04; Desktop) Presto Chrome/84.0.1501.41 Safari/537.36 Edg/84.0.1501.41
+Mozilla/5.0 (Linux; Ubuntu 18.04; Mobile; rv:61.0) Trident/7.0 Waterfox/61.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Desktop) Presto Chrome/62.0.4811.215 Safari/537.36 OPR/62.0.4811.215
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4551.109 Safari/537.36
+Brave/98.0.4551.109
+Mozilla/5.0 (Linux; Ubuntu 20.04; Tablet) Trident/7.0 Chrome/52.0.3310.185 Safari/537.36 OPR/52.0.3310.185
+Mozilla/5.0 (Linux; Android 12; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/5.0.2
+Mozilla/5.0 (Linux; Ubuntu 20.04; Smart TV) Gecko/20100101 Version/13.1.4 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 11; Tablet) WebKit Version/13.0.5 Safari/605.1.15
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Mobile; rv:3.21.6) Presto SeaMonkey/3.21.6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.4234.205 Safari/537.36
+OPR/51.0.4234.205
+Mozilla/5.0 (Windows NT 6.1; WOW64; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/6.0.1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Tablet; rv:31.0) Presto PaleMoon/31.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Mobile) Gecko/20100101 Chrome/88.0.1950.11 Safari/537.36 Edg/88.0.1950.11
+Mozilla/5.0 (Linux; Android 10; Mobile) Presto Chrome/19.0.1773.200 Safari/537.36 YaBrowser/19.0.1773.200
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Mobile) Presto Chrome/76.0.3125.157 Safari/537.36 OPR/76.0.3125.157
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Tablet) Presto Chrome/18.0.1871.183 Safari/537.36 YaBrowser/18.0.1871.183
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/20.0.1800.172 Safari/537.36
+YaBrowser/20.0.1800.172
+Mozilla/5.0 (Linux; Ubuntu 18.04; Mobile) Gecko/20100101 Chrome/101.0.3774.256 Safari/537.36 Brave/101.0.3774.256
+Mozilla/5.0 (Linux; Android 12; Mobile) Presto Chrome/80.0.3390.290 Safari/537.36 OPR/80.0.3390.290
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.1762.76 Safari/537.36 Edg/97.0.1762.76
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/6.0.8
+Mozilla/5.0 (Linux; Ubuntu 20.04; Tablet) Gecko/20100101 Chrome/87.0.1096.76 Safari/537.36 Edg/87.0.1096.76
+Mozilla/5.0 (Linux; Android 12; Tablet) Gecko/20100101 Chrome/4.6.2609.11 Safari/537.36 Vivaldi/4.6.2609.11
+Mozilla/5.0 (Linux; Ubuntu 18.04; Mobile) WebKit Version/13.1.1 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Smart TV) Presto Chrome/4.2.2369.43 Safari/537.36 Vivaldi/4.2.2369.43
+Mozilla/5.0 (Windows NT 6.1; WOW64; Mobile; rv:28.0) AppleWebKit/537.36 (KHTML, like Gecko) PaleMoon/28.0
+Mozilla/5.0 (Linux; U; Android 9; Desktop) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.4847.158 Safari/537.36
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Mobile) Trident/7.0 Maxthon/6.0.5
+Mozilla/5.0 (Windows NT 5.1; Tablet) Presto Version/14.0.1 Safari/605.1.15
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Desktop) WebKit Chrome/21.0.1870.167 Safari/537.36 YaBrowser/21.0.1870.167
+Mozilla/5.0 (Linux; U; Android 9; Tablet; rv:58.0) Presto Waterfox/58.0
+Mozilla/5.0 (compatible; MSIE 9.0; iPhone; CPU iPhone OS 15_0 like Mac OS X)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Desktop) Gecko/20100101 Chrome/97.0.4897.129 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/17.0.1717.145 Safari/537.36
+YaBrowser/17.0.1717.145
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; Desktop) Gecko/20100101 Chrome/94.0.4435.207 Safari/537.36 Brave/94.0.4435.207
+Mozilla/5.0 (X11; Linux x86_64; Tablet) Trident/7.0 Chrome/5.1.2465.61 Safari/537.36 Vivaldi/5.1.2465.61
+Mozilla/5.0 (X11; Ubuntu; Linux i686; Tablet) Gecko/20100101 Maxthon/4.0.3
+Mozilla/5.0 (Linux; U; Android 9; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3626.113 Safari/537.36 OPR/76.0.3626.113
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0; Smart TV) Trident/7.0 Chrome/100.0.4152.241 Safari/537.36 Brave/100.0.4152.241
+Mozilla/5.0 (Linux; Android 12; Mobile) WebKit Chrome/67.0.4796.195 Safari/537.36 OPR/67.0.4796.195
+Mozilla/5.0 (Linux; Android 12; Mobile) Trident/7.0 Chrome/103.0.4074.234 Safari/537.36 Brave/103.0.4074.234
+Mozilla/5.0 (Windows Phone 10.0; Mobile) Presto Chrome/50.0.3109.161 Safari/537.36 OPR/50.0.3109.161
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0; Smart TV; rv:67.0) Trident/7.0 Waterfox/67.0
+Mozilla/5.0 (compatible; MSIE 10.0; Macintosh; Intel Mac OS X 10_14_6)
+Mozilla/5.0 (Linux; Ubuntu 18.04; Tablet) Presto Chrome/59.0.3757.282 Safari/537.36 OPR/59.0.3757.282
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Version/11.1.1 Safari/605.1.15
+Mozilla/5.0 (Windows Phone 10.0; Desktop; rv:2.10.0) Gecko/20100101 SeaMonkey/2.10.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Smart TV; rv:69.0) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/69.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; Mobile) Gecko/20100101 Chrome/21.0.1705.111 Safari/537.36 YaBrowser/21.0.1705.111
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.1366.76 Safari/537.36 Edg/93.0.1366.76
