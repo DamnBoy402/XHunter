@@ -22,7 +22,7 @@ XHunter Vulnerability Scanner (XVS) is a vulnerability scanning tool that helps 
 To install and run XHunter Vulnerability Scanner (XVS), run the following command in your terminal (this will clone the repository and install everything in one go):
 
 ```
-git clone https://github.com/DamnBoy402/XHunter.git && cd XH && pip install requests beautifulsoup4 && python XHunter.py
+git clone https://github.com/DamnBoy402/XHunter.git && cd XHunter && pip install requests beautifulsoup4 && python XHunter.py
 ```
 
 
